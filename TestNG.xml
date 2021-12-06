@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="PicsartSuite">
+<listeners>
+  <listener class-name="com.org.picsartapp.Listeners.ExtentReporterNG">
+ <!-- <listener class-name="com.org.picsartapp.Listeners.RetryListenerClass"/> --> 
+  
+  </listener>
+</listeners>
+<test name="PicsartTest" >
+<classes>
+<class name="com.org.picsartapp.Test.LoginLogoutTest">
+</class>
+<class name="com.org.picsartapp.Test.LinkAndSearchTest">
+</class>
+
+
+</classes>
+
+
+</test>
+
+
+</suite>

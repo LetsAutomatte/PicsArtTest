@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [PicsartSuite]">
+  <listeners>
+    <listener class-name="com.org.picsartapp.Listeners.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="PicsartTest(failed)">
+    <classes>
+      <class name="com.org.picsartapp.Test.LinkAndSearchTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="serachCategory"/>
+          <include name="clickLinkTest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.org.picsartapp.Test.LinkAndSearchTest -->
+    </classes>
+  </test> <!-- PicsartTest(failed) -->
+</suite> <!-- Failed suite [PicsartSuite] -->

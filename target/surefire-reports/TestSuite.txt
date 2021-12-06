@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 51.544 sec <<< FAILURE!
+clickLinkTest(com.org.picsartapp.Test.LinkAndSearchTest)  Time elapsed: 2.564 sec  <<< FAILURE!
+java.lang.AssertionError: expected [https://picsart.com/blog] but found [https://picsart.com/]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+	at org.testng.Assert.assertEquals(Assert.java:122)
+	at org.testng.Assert.assertEquals(Assert.java:629)
+	at org.testng.Assert.assertEquals(Assert.java:639)
+	at com.org.picsartapp.Test.LinkAndSearchTest.clickLinkTest(LinkAndSearchTest.java:44)
+
+serachCategory(com.org.picsartapp.Test.LinkAndSearchTest)  Time elapsed: 4.38 sec  <<< FAILURE!
+java.lang.AssertionError: expected [https://picsart.com/blog/category/news] but found [https://picsart.com/]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+	at org.testng.Assert.assertEquals(Assert.java:122)
+	at org.testng.Assert.assertEquals(Assert.java:629)
+	at org.testng.Assert.assertEquals(Assert.java:639)
+	at com.org.picsartapp.Test.LinkAndSearchTest.serachCategory(LinkAndSearchTest.java:75)
+

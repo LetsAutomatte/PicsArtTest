@@ -1,0 +1,1267 @@
+2021-12-01 14:57:05,662 INFO  [Log] Exceptionchrome not reachable
+  (Session info: chrome=96.0.4664.45)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'SHRUJIND-IN', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\shrujind\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62269}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5d46ebd4ffd6428e4497fe9c095ef265
+*** Element info: {Using=xpath, value=//img[@title='User avatar']} 
+2021-12-01 14:57:05,662 INFO  [Log] ---clickCreateTest execution completed -------- 
+2021-12-01 14:57:05,667 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-01 14:57:09,182 INFO  [Log] Exceptionchrome not reachable
+  (Session info: chrome=96.0.4664.45)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'SHRUJIND-IN', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\shrujind\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62549}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 412d6f4216515cffcfc024f2f4c28b3f
+*** Element info: {Using=xpath, value=//img[@title='User avatar']} 
+2021-12-01 14:57:09,182 INFO  [Log] ---clickCreateTest execution completed -------- 
+2021-12-01 14:57:09,187 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-01 14:57:29,950 INFO  [Log] Exceptionchrome not reachable
+  (Session info: chrome=96.0.4664.45)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'SHRUJIND-IN', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\shrujind\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62213}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ebbe02f804b5f2ff798c2957913137b8
+*** Element info: {Using=xpath, value=//a[@href='/blog']} 
+2021-12-01 14:57:33,460 INFO  [Log] Exceptionchrome not reachable
+  (Session info: chrome=96.0.4664.45)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'SHRUJIND-IN', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\shrujind\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62486}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b3c399c9dac75934df316fd4faaceb80
+*** Element info: {Using=xpath, value=//a[@href='/blog']} 
+2021-12-01 16:42:43,417 INFO  [Log] App urlhttps://picsart.com/blog/ 
+2021-12-01 16:42:43,418 INFO  [Log] browserNamechrome 
+2021-12-01 16:42:52,019 INFO  [Log] Base class constructor 
+2021-12-01 16:42:52,022 INFO  [Log] ----Login Page---  
+2021-12-01 16:42:52,022 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 16:42:52,080 INFO  [Log] Base class constructor 
+2021-12-01 16:42:52,081 INFO  [Log] ----Blog Page---  
+2021-12-01 16:42:52,081 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 16:42:52,099 INFO  [Log] App urlhttps://picsart.com 
+2021-12-01 16:42:52,099 INFO  [Log] browserNamechrome 
+2021-12-01 16:43:25,093 INFO  [Log] Base class constructor 
+2021-12-01 16:43:25,094 INFO  [Log] ----Login Page---  
+2021-12-01 16:43:25,094 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 16:43:25,135 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-01 16:43:25,135 INFO  [Log] Clicking Login 
+2021-12-01 16:43:25,210 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (04d710bf567d691061c010bdb3334b04)] -> xpath: //button[@data-mode='login']] 
+2021-12-01 16:43:25,409 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (04d710bf567d691061c010bdb3334b04)] -> xpath: //button[@data-mode='login']] is clickable 
+2021-12-01 16:43:25,781 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (04d710bf567d691061c010bdb3334b04)] -> xpath: //button[@data-mode='login']]' clicked successful. 
+2021-12-01 16:43:25,799 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (04d710bf567d691061c010bdb3334b04)] -> name: username] 
+2021-12-01 16:43:25,933 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (04d710bf567d691061c010bdb3334b04)] -> name: username] is clickable 
+2021-12-01 16:43:26,369 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (04d710bf567d691061c010bdb3334b04)] -> name: username]--shruti18saggi@gmail.com 
+2021-12-01 16:43:26,393 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (04d710bf567d691061c010bdb3334b04)] -> name: password] 
+2021-12-01 16:43:26,474 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (04d710bf567d691061c010bdb3334b04)] -> name: password] is clickable 
+2021-12-01 16:43:26,615 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (04d710bf567d691061c010bdb3334b04)] -> name: password]--test@1 
+2021-12-01 16:43:26,637 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (04d710bf567d691061c010bdb3334b04)] -> xpath: //button[@type='submit']] 
+2021-12-01 16:43:26,727 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (04d710bf567d691061c010bdb3334b04)] -> xpath: //button[@type='submit']] is clickable 
+2021-12-01 16:43:26,890 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (04d710bf567d691061c010bdb3334b04)] -> xpath: //button[@type='submit']]' clicked successful. 
+2021-12-01 16:43:26,892 INFO  [Log] Base class constructor 
+2021-12-01 16:43:26,909 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-01 16:43:26,909 INFO  [Log] Clicking Login 
+2021-12-01 16:43:26,930 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (04d710bf567d691061c010bdb3334b04)] -> xpath: //button[@data-mode='login']] 
+2021-12-01 16:43:27,048 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (04d710bf567d691061c010bdb3334b04)] -> xpath: //button[@data-mode='login']] is clickable 
+2021-12-01 16:43:28,165 INFO  [Log] xpath : [[ChromeDriver: chrome on WINDOWS (04d710bf567d691061c010bdb3334b04)] -> xpath: //button[@data-mode='login']]click by xpath failed 
+2021-12-01 16:43:28,166 INFO  [Log] ExceptionError at UI Execution! 
+2021-12-01 16:43:28,166 INFO  [Log] Base class constructor 
+2021-12-01 16:43:28,178 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-01 16:43:28,178 INFO  [Log] Clicking Login 
+2021-12-01 16:43:28,202 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (04d710bf567d691061c010bdb3334b04)] -> xpath: //button[@data-mode='login']] 
+2021-12-01 16:43:28,277 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (04d710bf567d691061c010bdb3334b04)] -> xpath: //button[@data-mode='login']] is clickable 
+2021-12-01 16:43:29,372 INFO  [Log] xpath : [[ChromeDriver: chrome on WINDOWS (04d710bf567d691061c010bdb3334b04)] -> xpath: //button[@data-mode='login']]click by xpath failed 
+2021-12-01 16:43:29,372 INFO  [Log] ExceptionError at UI Execution! 
+2021-12-01 16:43:29,373 INFO  [Log] Base class constructor 
+2021-12-01 16:43:29,388 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-01 16:43:29,439 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (c637eb4f47d63ce7ce5dc24cf8e722d4)] -> xpath: //a[@href='/blog']] 
+2021-12-01 16:43:29,544 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (c637eb4f47d63ce7ce5dc24cf8e722d4)] -> xpath: //a[@href='/blog']] is clickable 
+2021-12-01 16:43:29,791 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (c637eb4f47d63ce7ce5dc24cf8e722d4)] -> xpath: //a[@href='/blog']]' clicked successful. 
+2021-12-01 16:43:29,813 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (c637eb4f47d63ce7ce5dc24cf8e722d4)] -> xpath: //a[@href='/blog/category/design-school']] 
+2021-12-01 16:43:29,901 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (c637eb4f47d63ce7ce5dc24cf8e722d4)] -> xpath: //a[@href='/blog/category/design-school']] is clickable 
+2021-12-01 16:43:30,216 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (c637eb4f47d63ce7ce5dc24cf8e722d4)] -> xpath: //a[@href='/blog/category/design-school']]' clicked successful. 
+2021-12-01 16:43:30,238 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (c637eb4f47d63ce7ce5dc24cf8e722d4)] -> xpath: //a[@href='/blog/category/trends']] 
+2021-12-01 16:43:30,308 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (c637eb4f47d63ce7ce5dc24cf8e722d4)] -> xpath: //a[@href='/blog/category/trends']] is clickable 
+2021-12-01 16:43:30,643 INFO  [Log] StaleElementReferenceException 
+2021-12-01 16:43:31,082 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (c637eb4f47d63ce7ce5dc24cf8e722d4)] -> xpath: //a[@href='/blog/category/picsart-pro']] 
+2021-12-01 16:43:31,249 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (c637eb4f47d63ce7ce5dc24cf8e722d4)] -> xpath: //a[@href='/blog/category/picsart-pro']] is clickable 
+2021-12-01 16:43:32,509 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (c637eb4f47d63ce7ce5dc24cf8e722d4)] -> xpath: //a[@href='/blog/category/picsart-pro']]' clicked successful. 
+2021-12-01 16:43:32,538 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (c637eb4f47d63ce7ce5dc24cf8e722d4)] -> xpath: //a[@href='/blog/category/news']] 
+2021-12-01 16:43:32,642 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (c637eb4f47d63ce7ce5dc24cf8e722d4)] -> xpath: //a[@href='/blog/category/news']] is clickable 
+2021-12-01 16:43:33,732 INFO  [Log] xpath : [[ChromeDriver: chrome on WINDOWS (c637eb4f47d63ce7ce5dc24cf8e722d4)] -> xpath: //a[@href='/blog/category/news']]click by xpath failed 
+2021-12-01 16:43:33,732 INFO  [Log] ExceptionError at UI Execution! 
+2021-12-01 16:44:18,717 INFO  [Log] App urlhttps://picsart.com 
+2021-12-01 16:44:18,718 INFO  [Log] browserNamechrome 
+2021-12-01 16:44:38,501 INFO  [Log] Base class constructor 
+2021-12-01 16:44:38,502 INFO  [Log] ----Login Page---  
+2021-12-01 16:44:38,503 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 16:44:38,723 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-01 16:44:38,723 INFO  [Log] Clicking Login 
+2021-12-01 16:44:38,980 INFO  [Log] Searching for elementProxy element for: DefaultElementLocator 'By.xpath: //button[@data-mode='login']' 
+2021-12-01 16:45:06,512 INFO  [Log] Exceptionchrome not reachable
+  (Session info: chrome=96.0.4664.45)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'SHRUJIND-IN', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\shrujind\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60026}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9e000f12ea796f4578522c1fda8c8e6b
+*** Element info: {Using=xpath, value=//button[@data-mode='login']} 
+2021-12-01 16:45:06,514 INFO  [Log] Base class constructor 
+2021-12-01 16:45:06,927 INFO  [Log] App urlhttps://picsart.com 
+2021-12-01 16:45:06,927 INFO  [Log] browserNamechrome 
+2021-12-01 16:45:15,376 INFO  [Log] Base class constructor 
+2021-12-01 16:45:15,378 INFO  [Log] ----Login Page---  
+2021-12-01 16:45:15,378 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 16:45:15,480 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-01 16:45:15,480 INFO  [Log] Clicking Login 
+2021-12-01 16:45:15,512 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (6427df152616e0299c33a844fca7aa39)] -> xpath: //button[@data-mode='login']] 
+2021-12-01 16:45:15,675 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (6427df152616e0299c33a844fca7aa39)] -> xpath: //button[@data-mode='login']] is clickable 
+2021-12-01 16:45:15,947 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (6427df152616e0299c33a844fca7aa39)] -> xpath: //button[@data-mode='login']]' clicked successful. 
+2021-12-01 16:45:16,069 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (6427df152616e0299c33a844fca7aa39)] -> name: username] 
+2021-12-01 16:45:16,149 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (6427df152616e0299c33a844fca7aa39)] -> name: username] is clickable 
+2021-12-01 16:45:16,502 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (6427df152616e0299c33a844fca7aa39)] -> name: username]--shruti18saggi@gmail.com 
+2021-12-01 16:45:16,535 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (6427df152616e0299c33a844fca7aa39)] -> name: password] 
+2021-12-01 16:45:16,635 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (6427df152616e0299c33a844fca7aa39)] -> name: password] is clickable 
+2021-12-01 16:45:16,798 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (6427df152616e0299c33a844fca7aa39)] -> name: password]--test@1 
+2021-12-01 16:45:16,818 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (6427df152616e0299c33a844fca7aa39)] -> xpath: //button[@type='submit']] 
+2021-12-01 16:45:16,971 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (6427df152616e0299c33a844fca7aa39)] -> xpath: //button[@type='submit']] is clickable 
+2021-12-01 16:45:17,117 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (6427df152616e0299c33a844fca7aa39)] -> xpath: //button[@type='submit']]' clicked successful. 
+2021-12-01 16:45:17,120 INFO  [Log] Base class constructor 
+2021-12-01 16:45:33,610 INFO  [Log] App urlhttps://picsart.com/blog/ 
+2021-12-01 16:45:33,610 INFO  [Log] browserNamechrome 
+2021-12-01 16:45:41,719 INFO  [Log] Base class constructor 
+2021-12-01 16:45:41,723 INFO  [Log] ----Login Page---  
+2021-12-01 16:45:41,723 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 16:45:41,794 INFO  [Log] Base class constructor 
+2021-12-01 16:45:41,796 INFO  [Log] ----Blog Page---  
+2021-12-01 16:45:41,796 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 16:45:41,814 INFO  [Log] App urlhttps://picsart.com 
+2021-12-01 16:45:41,814 INFO  [Log] browserNamechrome 
+2021-12-01 16:45:49,504 INFO  [Log] Base class constructor 
+2021-12-01 16:45:49,506 INFO  [Log] ----Login Page---  
+2021-12-01 16:45:49,506 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 16:45:49,616 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-01 16:45:49,616 INFO  [Log] Clicking Login 
+2021-12-01 16:45:49,693 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (76eeb0adf75d23c3c23a58447e7f3052)] -> xpath: //button[@data-mode='login']] 
+2021-12-01 16:45:49,866 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (76eeb0adf75d23c3c23a58447e7f3052)] -> xpath: //button[@data-mode='login']] is clickable 
+2021-12-01 16:45:50,599 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (76eeb0adf75d23c3c23a58447e7f3052)] -> xpath: //button[@data-mode='login']]' clicked successful. 
+2021-12-01 16:45:50,627 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (76eeb0adf75d23c3c23a58447e7f3052)] -> name: username] 
+2021-12-01 16:45:50,719 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (76eeb0adf75d23c3c23a58447e7f3052)] -> name: username] is clickable 
+2021-12-01 16:45:51,169 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (76eeb0adf75d23c3c23a58447e7f3052)] -> name: username]--shruti18saggi@gmail.com 
+2021-12-01 16:45:51,191 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (76eeb0adf75d23c3c23a58447e7f3052)] -> name: password] 
+2021-12-01 16:45:51,306 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (76eeb0adf75d23c3c23a58447e7f3052)] -> name: password] is clickable 
+2021-12-01 16:45:51,448 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (76eeb0adf75d23c3c23a58447e7f3052)] -> name: password]--test@1 
+2021-12-01 16:45:51,467 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (76eeb0adf75d23c3c23a58447e7f3052)] -> xpath: //button[@type='submit']] 
+2021-12-01 16:45:51,570 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (76eeb0adf75d23c3c23a58447e7f3052)] -> xpath: //button[@type='submit']] is clickable 
+2021-12-01 16:45:51,732 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (76eeb0adf75d23c3c23a58447e7f3052)] -> xpath: //button[@type='submit']]' clicked successful. 
+2021-12-01 16:45:51,733 INFO  [Log] Base class constructor 
+2021-12-01 16:45:51,751 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-01 16:45:51,751 INFO  [Log] Clicking Login 
+2021-12-01 16:45:51,775 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (76eeb0adf75d23c3c23a58447e7f3052)] -> xpath: //button[@data-mode='login']] 
+2021-12-01 16:45:51,851 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (76eeb0adf75d23c3c23a58447e7f3052)] -> xpath: //button[@data-mode='login']] is clickable 
+2021-12-01 16:45:53,425 INFO  [Log] xpath : [[ChromeDriver: chrome on WINDOWS (76eeb0adf75d23c3c23a58447e7f3052)] -> xpath: //button[@data-mode='login']]click by xpath failed 
+2021-12-01 16:45:53,426 INFO  [Log] ExceptionError at UI Execution! 
+2021-12-01 16:45:53,426 INFO  [Log] Base class constructor 
+2021-12-01 16:45:53,452 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-01 16:45:53,453 INFO  [Log] Clicking Login 
+2021-12-01 16:45:53,616 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (76eeb0adf75d23c3c23a58447e7f3052)] -> xpath: //button[@data-mode='login']] 
+2021-12-01 16:45:53,736 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (76eeb0adf75d23c3c23a58447e7f3052)] -> xpath: //button[@data-mode='login']] is clickable 
+2021-12-01 16:45:54,839 INFO  [Log] xpath : [[ChromeDriver: chrome on WINDOWS (76eeb0adf75d23c3c23a58447e7f3052)] -> xpath: //button[@data-mode='login']]click by xpath failed 
+2021-12-01 16:45:54,839 INFO  [Log] ExceptionError at UI Execution! 
+2021-12-01 16:45:54,839 INFO  [Log] Base class constructor 
+2021-12-01 16:45:54,850 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-01 16:45:54,881 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (f989132af13d32a9f7f0479dc0f74a92)] -> xpath: //a[@href='/blog']] 
+2021-12-01 16:45:54,998 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (f989132af13d32a9f7f0479dc0f74a92)] -> xpath: //a[@href='/blog']] is clickable 
+2021-12-01 16:45:55,216 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (f989132af13d32a9f7f0479dc0f74a92)] -> xpath: //a[@href='/blog']]' clicked successful. 
+2021-12-01 16:45:55,245 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (f989132af13d32a9f7f0479dc0f74a92)] -> xpath: //a[@href='/blog/category/design-school']] 
+2021-12-01 16:45:55,361 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (f989132af13d32a9f7f0479dc0f74a92)] -> xpath: //a[@href='/blog/category/design-school']] is clickable 
+2021-12-01 16:45:55,748 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (f989132af13d32a9f7f0479dc0f74a92)] -> xpath: //a[@href='/blog/category/design-school']]' clicked successful. 
+2021-12-01 16:45:55,778 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (f989132af13d32a9f7f0479dc0f74a92)] -> xpath: //a[@href='/blog/category/trends']] 
+2021-12-01 16:45:55,888 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (f989132af13d32a9f7f0479dc0f74a92)] -> xpath: //a[@href='/blog/category/trends']] is clickable 
+2021-12-01 16:45:56,159 INFO  [Log] StaleElementReferenceException 
+2021-12-01 16:45:57,264 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (f989132af13d32a9f7f0479dc0f74a92)] -> xpath: //a[@href='/blog/category/picsart-pro']] 
+2021-12-01 16:45:57,376 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (f989132af13d32a9f7f0479dc0f74a92)] -> xpath: //a[@href='/blog/category/picsart-pro']] is clickable 
+2021-12-01 16:45:57,727 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (f989132af13d32a9f7f0479dc0f74a92)] -> xpath: //a[@href='/blog/category/picsart-pro']]' clicked successful. 
+2021-12-01 16:45:57,744 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (f989132af13d32a9f7f0479dc0f74a92)] -> xpath: //a[@href='/blog/category/news']] 
+2021-12-01 16:45:57,818 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (f989132af13d32a9f7f0479dc0f74a92)] -> xpath: //a[@href='/blog/category/news']] is clickable 
+2021-12-01 16:45:58,246 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (f989132af13d32a9f7f0479dc0f74a92)] -> xpath: //a[@href='/blog/category/news']]' clicked successful. 
+2021-12-01 16:45:58,246 INFO  [Log] Logging Out 
+2021-12-01 16:45:58,262 INFO  [Log] Searching for elementProxy element for: DefaultElementLocator 'By.xpath: //img[@title='User avatar']' 
+2021-12-01 16:47:04,806 INFO  [Log] App urlhttps://picsart.com/blog/ 
+2021-12-01 16:47:04,806 INFO  [Log] browserNamechrome 
+2021-12-01 16:47:12,635 INFO  [Log] Base class constructor 
+2021-12-01 16:47:12,636 INFO  [Log] ----Login Page---  
+2021-12-01 16:47:12,636 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 16:47:12,701 INFO  [Log] Base class constructor 
+2021-12-01 16:47:12,702 INFO  [Log] ----Blog Page---  
+2021-12-01 16:47:12,702 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 16:47:12,726 INFO  [Log] App urlhttps://picsart.com 
+2021-12-01 16:47:12,726 INFO  [Log] browserNamechrome 
+2021-12-01 16:47:20,340 INFO  [Log] Base class constructor 
+2021-12-01 16:47:20,341 INFO  [Log] ----Login Page---  
+2021-12-01 16:47:20,341 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 16:47:20,389 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-01 16:47:20,389 INFO  [Log] Clicking Login 
+2021-12-01 16:47:20,451 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (5947a00e0d215de17c8708b76196a7a4)] -> xpath: //button[@data-mode='login']] 
+2021-12-01 16:47:20,636 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (5947a00e0d215de17c8708b76196a7a4)] -> xpath: //button[@data-mode='login']] is clickable 
+2021-12-01 16:47:20,957 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (5947a00e0d215de17c8708b76196a7a4)] -> xpath: //button[@data-mode='login']]' clicked successful. 
+2021-12-01 16:47:20,989 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (5947a00e0d215de17c8708b76196a7a4)] -> name: username] 
+2021-12-01 16:47:21,073 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (5947a00e0d215de17c8708b76196a7a4)] -> name: username] is clickable 
+2021-12-01 16:47:21,662 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (5947a00e0d215de17c8708b76196a7a4)] -> name: username]--shruti18saggi@gmail.com 
+2021-12-01 16:47:21,683 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (5947a00e0d215de17c8708b76196a7a4)] -> name: password] 
+2021-12-01 16:47:21,755 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (5947a00e0d215de17c8708b76196a7a4)] -> name: password] is clickable 
+2021-12-01 16:47:21,897 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (5947a00e0d215de17c8708b76196a7a4)] -> name: password]--test@123 
+2021-12-01 16:47:21,917 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (5947a00e0d215de17c8708b76196a7a4)] -> xpath: //button[@type='submit']] 
+2021-12-01 16:47:22,017 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (5947a00e0d215de17c8708b76196a7a4)] -> xpath: //button[@type='submit']] is clickable 
+2021-12-01 16:47:22,184 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (5947a00e0d215de17c8708b76196a7a4)] -> xpath: //button[@type='submit']]' clicked successful. 
+2021-12-01 16:47:22,186 INFO  [Log] Base class constructor 
+2021-12-01 16:47:22,204 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-01 16:47:22,204 INFO  [Log] Clicking Login 
+2021-12-01 16:47:22,220 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (5947a00e0d215de17c8708b76196a7a4)] -> xpath: //button[@data-mode='login']] 
+2021-12-01 16:47:22,298 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (5947a00e0d215de17c8708b76196a7a4)] -> xpath: //button[@data-mode='login']] is clickable 
+2021-12-01 16:47:23,511 INFO  [Log] xpath : [[ChromeDriver: chrome on WINDOWS (5947a00e0d215de17c8708b76196a7a4)] -> xpath: //button[@data-mode='login']]click by xpath failed 
+2021-12-01 16:47:23,512 INFO  [Log] ExceptionError at UI Execution! 
+2021-12-01 16:47:23,512 INFO  [Log] Base class constructor 
+2021-12-01 16:47:23,528 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-01 16:47:23,528 INFO  [Log] Clicking Login 
+2021-12-01 16:47:23,560 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (5947a00e0d215de17c8708b76196a7a4)] -> xpath: //button[@data-mode='login']] 
+2021-12-01 16:47:27,108 INFO  [Log] StaleElementReferenceException 
+2021-12-01 16:47:27,972 INFO  [Log] Exceptionno such element: Unable to locate element: {"method":"xpath","selector":"//button[@data-mode='login']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'SHRUJIND-IN', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\shrujind\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53193}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5947a00e0d215de17c8708b76196a7a4
+*** Element info: {Using=xpath, value=//button[@data-mode='login']} 
+2021-12-01 16:47:27,972 INFO  [Log] Base class constructor 
+2021-12-01 16:47:28,196 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-01 16:47:28,243 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (42f2fe55519b442fb8eb464f38c5da9c)] -> xpath: //a[@href='/blog']] 
+2021-12-01 16:47:28,387 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (42f2fe55519b442fb8eb464f38c5da9c)] -> xpath: //a[@href='/blog']] is clickable 
+2021-12-01 16:47:28,893 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (42f2fe55519b442fb8eb464f38c5da9c)] -> xpath: //a[@href='/blog']]' clicked successful. 
+2021-12-01 16:47:28,955 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (42f2fe55519b442fb8eb464f38c5da9c)] -> xpath: //a[@href='/blog/category/design-school']] 
+2021-12-01 16:47:29,526 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (42f2fe55519b442fb8eb464f38c5da9c)] -> xpath: //a[@href='/blog/category/design-school']] is clickable 
+2021-12-01 16:47:29,959 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (42f2fe55519b442fb8eb464f38c5da9c)] -> xpath: //a[@href='/blog/category/design-school']]' clicked successful. 
+2021-12-01 16:47:30,039 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (42f2fe55519b442fb8eb464f38c5da9c)] -> xpath: //a[@href='/blog/category/trends']] 
+2021-12-01 16:47:30,621 INFO  [Log] StaleElementReferenceException 
+2021-12-01 16:47:32,838 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (42f2fe55519b442fb8eb464f38c5da9c)] -> xpath: //a[@href='/blog/category/picsart-pro']] 
+2021-12-01 16:47:32,975 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (42f2fe55519b442fb8eb464f38c5da9c)] -> xpath: //a[@href='/blog/category/picsart-pro']] is clickable 
+2021-12-01 16:47:33,464 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (42f2fe55519b442fb8eb464f38c5da9c)] -> xpath: //a[@href='/blog/category/picsart-pro']]' clicked successful. 
+2021-12-01 16:47:33,480 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (42f2fe55519b442fb8eb464f38c5da9c)] -> xpath: //a[@href='/blog/category/news']] 
+2021-12-01 16:47:33,567 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (42f2fe55519b442fb8eb464f38c5da9c)] -> xpath: //a[@href='/blog/category/news']] is clickable 
+2021-12-01 16:47:34,069 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (42f2fe55519b442fb8eb464f38c5da9c)] -> xpath: //a[@href='/blog/category/news']]' clicked successful. 
+2021-12-01 16:47:34,069 INFO  [Log] Logging Out 
+2021-12-01 16:47:34,102 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (5947a00e0d215de17c8708b76196a7a4)] -> xpath: //img[@title='User avatar']] 
+2021-12-01 16:47:34,185 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (5947a00e0d215de17c8708b76196a7a4)] -> xpath: //img[@title='User avatar']] is clickable 
+2021-12-01 16:47:34,321 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (5947a00e0d215de17c8708b76196a7a4)] -> xpath: //img[@title='User avatar']]' clicked successful. 
+2021-12-01 16:47:34,357 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (5947a00e0d215de17c8708b76196a7a4)] -> xpath: //a[@href='/logout']] 
+2021-12-01 16:47:34,499 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (5947a00e0d215de17c8708b76196a7a4)] -> xpath: //a[@href='/logout']] is clickable 
+2021-12-01 16:47:36,770 INFO  [Log] Element: 'Proxy element for: DefaultElementLocator 'By.xpath: //a[@href='/logout']'' clicked successful. 
+2021-12-01 16:47:36,771 INFO  [Log] ---clickLinkTest execution completed -------- 
+2021-12-01 16:49:01,424 INFO  [Log] App urlhttps://picsart.com 
+2021-12-01 16:49:01,424 INFO  [Log] browserNamechrome 
+2021-12-01 16:49:09,496 INFO  [Log] Base class constructor 
+2021-12-01 16:49:09,497 INFO  [Log] ----Login Page---  
+2021-12-01 16:49:09,498 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 16:49:09,596 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-01 16:49:09,596 INFO  [Log] Clicking Login 
+2021-12-01 16:49:09,618 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (764739544bfc696bf7d12c8fbff261e8)] -> xpath: //button[@data-mode='login']] 
+2021-12-01 16:49:09,861 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (764739544bfc696bf7d12c8fbff261e8)] -> xpath: //button[@data-mode='login']] is clickable 
+2021-12-01 16:49:10,018 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (764739544bfc696bf7d12c8fbff261e8)] -> xpath: //button[@data-mode='login']]' clicked successful. 
+2021-12-01 16:49:10,038 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (764739544bfc696bf7d12c8fbff261e8)] -> name: username] 
+2021-12-01 16:49:10,158 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (764739544bfc696bf7d12c8fbff261e8)] -> name: username] is clickable 
+2021-12-01 16:49:10,415 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (764739544bfc696bf7d12c8fbff261e8)] -> name: username]--shruti18saggi@gmail.com 
+2021-12-01 16:49:10,503 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (764739544bfc696bf7d12c8fbff261e8)] -> name: password] 
+2021-12-01 16:49:10,547 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (764739544bfc696bf7d12c8fbff261e8)] -> name: password] is clickable 
+2021-12-01 16:49:10,744 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (764739544bfc696bf7d12c8fbff261e8)] -> name: password]--test@123 
+2021-12-01 16:49:10,761 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (764739544bfc696bf7d12c8fbff261e8)] -> xpath: //button[@type='submit']] 
+2021-12-01 16:49:10,868 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (764739544bfc696bf7d12c8fbff261e8)] -> xpath: //button[@type='submit']] is clickable 
+2021-12-01 16:49:10,947 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (764739544bfc696bf7d12c8fbff261e8)] -> xpath: //button[@type='submit']]' clicked successful. 
+2021-12-01 16:49:10,949 INFO  [Log] Base class constructor 
+2021-12-01 16:50:01,918 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (76eeb0adf75d23c3c23a58447e7f3052)] -> xpath: //img[@title='User avatar']] is clickable 
+2021-12-01 16:50:02,038 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (76eeb0adf75d23c3c23a58447e7f3052)] -> xpath: //img[@title='User avatar']]' clicked successful. 
+2021-12-01 16:50:02,062 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (76eeb0adf75d23c3c23a58447e7f3052)] -> xpath: //a[@href='/logout']] 
+2021-12-01 16:50:02,230 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (76eeb0adf75d23c3c23a58447e7f3052)] -> xpath: //a[@href='/logout']] is clickable 
+2021-12-01 16:50:02,424 INFO  [Log] xpath : [[ChromeDriver: chrome on WINDOWS (76eeb0adf75d23c3c23a58447e7f3052)] -> xpath: //a[@href='/logout']]click by xpath failed 
+2021-12-01 16:50:02,424 INFO  [Log] ExceptionError at UI Execution! 
+2021-12-01 16:50:02,424 INFO  [Log] ---clickLinkTest execution completed -------- 
+2021-12-01 16:52:14,609 INFO  [Log] App urlhttps://picsart.com 
+2021-12-01 16:52:14,610 INFO  [Log] browserNamechrome 
+2021-12-01 16:52:22,465 INFO  [Log] Base class constructor 
+2021-12-01 16:52:22,465 INFO  [Log] ----Login Page---  
+2021-12-01 16:52:22,465 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 16:52:22,534 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-01 16:52:22,534 INFO  [Log] Clicking Login 
+2021-12-01 16:52:22,568 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (882e9c2f692e4cd8f64fcca6d1b82042)] -> xpath: //button[@data-mode='login']] 
+2021-12-01 16:52:22,788 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (882e9c2f692e4cd8f64fcca6d1b82042)] -> xpath: //button[@data-mode='login']] is clickable 
+2021-12-01 16:52:22,982 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (882e9c2f692e4cd8f64fcca6d1b82042)] -> xpath: //button[@data-mode='login']]' clicked successful. 
+2021-12-01 16:52:23,000 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (882e9c2f692e4cd8f64fcca6d1b82042)] -> name: username] 
+2021-12-01 16:52:23,073 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (882e9c2f692e4cd8f64fcca6d1b82042)] -> name: username] is clickable 
+2021-12-01 16:52:23,427 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (882e9c2f692e4cd8f64fcca6d1b82042)] -> name: username]--shruti18saggi@gmail.com 
+2021-12-01 16:52:23,457 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (882e9c2f692e4cd8f64fcca6d1b82042)] -> name: password] 
+2021-12-01 16:52:23,514 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (882e9c2f692e4cd8f64fcca6d1b82042)] -> name: password] is clickable 
+2021-12-01 16:52:23,771 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (882e9c2f692e4cd8f64fcca6d1b82042)] -> name: password]--test@123 
+2021-12-01 16:52:23,793 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (882e9c2f692e4cd8f64fcca6d1b82042)] -> xpath: //button[@type='submit']] 
+2021-12-01 16:52:23,881 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (882e9c2f692e4cd8f64fcca6d1b82042)] -> xpath: //button[@type='submit']] is clickable 
+2021-12-01 16:52:24,071 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (882e9c2f692e4cd8f64fcca6d1b82042)] -> xpath: //button[@type='submit']]' clicked successful. 
+2021-12-01 16:52:24,073 INFO  [Log] Base class constructor 
+2021-12-01 16:53:04,816 INFO  [Log] App urlhttps://picsart.com 
+2021-12-01 16:53:04,817 INFO  [Log] browserNamechrome 
+2021-12-01 16:53:12,654 INFO  [Log] Base class constructor 
+2021-12-01 16:53:12,655 INFO  [Log] ----Login Page---  
+2021-12-01 16:53:12,656 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 16:53:12,760 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-01 16:53:12,760 INFO  [Log] Clicking Login 
+2021-12-01 16:53:12,798 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (34ee129c402525d75b12ef86a34ea0d0)] -> xpath: //button[@data-mode='login']] 
+2021-12-01 16:53:12,974 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (34ee129c402525d75b12ef86a34ea0d0)] -> xpath: //button[@data-mode='login']] is clickable 
+2021-12-01 16:53:13,181 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (34ee129c402525d75b12ef86a34ea0d0)] -> xpath: //button[@data-mode='login']]' clicked successful. 
+2021-12-01 16:53:13,226 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (34ee129c402525d75b12ef86a34ea0d0)] -> name: username] 
+2021-12-01 16:53:13,286 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (34ee129c402525d75b12ef86a34ea0d0)] -> name: username] is clickable 
+2021-12-01 16:53:13,571 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (34ee129c402525d75b12ef86a34ea0d0)] -> name: username]--shruti18saggi@gmail.com 
+2021-12-01 16:53:13,589 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (34ee129c402525d75b12ef86a34ea0d0)] -> name: password] 
+2021-12-01 16:53:13,634 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (34ee129c402525d75b12ef86a34ea0d0)] -> name: password] is clickable 
+2021-12-01 16:53:13,839 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (34ee129c402525d75b12ef86a34ea0d0)] -> name: password]--test@123 
+2021-12-01 16:53:13,864 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (34ee129c402525d75b12ef86a34ea0d0)] -> xpath: //button[@type='submit']] 
+2021-12-01 16:53:13,997 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (34ee129c402525d75b12ef86a34ea0d0)] -> xpath: //button[@type='submit']] is clickable 
+2021-12-01 16:53:14,093 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (34ee129c402525d75b12ef86a34ea0d0)] -> xpath: //button[@type='submit']]' clicked successful. 
+2021-12-01 16:53:14,103 INFO  [Log] Base class constructor 
+2021-12-01 16:54:11,198 INFO  [Log] App urlhttps://picsart.com 
+2021-12-01 16:54:11,199 INFO  [Log] browserNamechrome 
+2021-12-01 16:54:19,148 INFO  [Log] Base class constructor 
+2021-12-01 16:54:19,148 INFO  [Log] ----Login Page---  
+2021-12-01 16:54:19,148 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 16:54:19,245 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-01 16:54:19,245 INFO  [Log] Clicking Login 
+2021-12-01 16:54:19,284 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (7bd915b87dc52ffbb404d7dc764f8b7d)] -> xpath: //button[@data-mode='login']] 
+2021-12-01 16:54:19,458 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (7bd915b87dc52ffbb404d7dc764f8b7d)] -> xpath: //button[@data-mode='login']] is clickable 
+2021-12-01 16:54:19,722 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (7bd915b87dc52ffbb404d7dc764f8b7d)] -> xpath: //button[@data-mode='login']]' clicked successful. 
+2021-12-01 16:54:19,749 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (7bd915b87dc52ffbb404d7dc764f8b7d)] -> name: username] 
+2021-12-01 16:54:19,804 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (7bd915b87dc52ffbb404d7dc764f8b7d)] -> name: username] is clickable 
+2021-12-01 16:54:20,041 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (7bd915b87dc52ffbb404d7dc764f8b7d)] -> name: username]--shruti18saggi@gmail.com 
+2021-12-01 16:54:20,062 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (7bd915b87dc52ffbb404d7dc764f8b7d)] -> name: password] 
+2021-12-01 16:54:20,106 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (7bd915b87dc52ffbb404d7dc764f8b7d)] -> name: password] is clickable 
+2021-12-01 16:54:20,302 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (7bd915b87dc52ffbb404d7dc764f8b7d)] -> name: password]--test@123 
+2021-12-01 16:54:20,327 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (7bd915b87dc52ffbb404d7dc764f8b7d)] -> xpath: //button[@type='submit']] 
+2021-12-01 16:54:20,438 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (7bd915b87dc52ffbb404d7dc764f8b7d)] -> xpath: //button[@type='submit']] is clickable 
+2021-12-01 16:54:20,549 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (7bd915b87dc52ffbb404d7dc764f8b7d)] -> xpath: //button[@type='submit']]' clicked successful. 
+2021-12-01 16:54:20,550 INFO  [Log] Base class constructor 
+2021-12-01 16:55:17,519 INFO  [Log] App urlhttps://picsart.com 
+2021-12-01 16:55:17,520 INFO  [Log] browserNamechrome 
+2021-12-01 16:55:25,344 INFO  [Log] Base class constructor 
+2021-12-01 16:55:25,345 INFO  [Log] ----Login Page---  
+2021-12-01 16:55:25,345 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 16:55:25,426 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-01 16:55:25,426 INFO  [Log] Clicking Login 
+2021-12-01 16:55:25,448 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (ccc82a44bfc11c47c4dc908ec5a18052)] -> xpath: //button[@data-mode='login']] 
+2021-12-01 16:55:25,659 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (ccc82a44bfc11c47c4dc908ec5a18052)] -> xpath: //button[@data-mode='login']] is clickable 
+2021-12-01 16:55:25,923 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (ccc82a44bfc11c47c4dc908ec5a18052)] -> xpath: //button[@data-mode='login']]' clicked successful. 
+2021-12-01 16:55:25,953 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (ccc82a44bfc11c47c4dc908ec5a18052)] -> name: username] 
+2021-12-01 16:55:26,021 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (ccc82a44bfc11c47c4dc908ec5a18052)] -> name: username] is clickable 
+2021-12-01 16:55:26,335 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (ccc82a44bfc11c47c4dc908ec5a18052)] -> name: username]--shruti18saggi@gmail.com 
+2021-12-01 16:55:26,358 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (ccc82a44bfc11c47c4dc908ec5a18052)] -> name: password] 
+2021-12-01 16:55:26,400 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (ccc82a44bfc11c47c4dc908ec5a18052)] -> name: password] is clickable 
+2021-12-01 16:55:26,578 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (ccc82a44bfc11c47c4dc908ec5a18052)] -> name: password]--test@123 
+2021-12-01 16:55:26,598 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (ccc82a44bfc11c47c4dc908ec5a18052)] -> xpath: //button[@type='submit']] 
+2021-12-01 16:55:26,735 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (ccc82a44bfc11c47c4dc908ec5a18052)] -> xpath: //button[@type='submit']] is clickable 
+2021-12-01 16:55:26,876 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (ccc82a44bfc11c47c4dc908ec5a18052)] -> xpath: //button[@type='submit']]' clicked successful. 
+2021-12-01 16:55:26,886 INFO  [Log] Base class constructor 
+2021-12-01 16:56:21,618 INFO  [Log] App urlhttps://picsart.com 
+2021-12-01 16:56:21,619 INFO  [Log] browserNamechrome 
+2021-12-01 16:56:29,920 INFO  [Log] Base class constructor 
+2021-12-01 16:56:29,921 INFO  [Log] ----Login Page---  
+2021-12-01 16:56:29,921 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 16:56:30,024 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-01 16:56:30,024 INFO  [Log] Clicking Login 
+2021-12-01 16:56:30,060 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (7387e8d69c14d2d37d32af8716f8adc5)] -> xpath: //button[@data-mode='login']] 
+2021-12-01 16:56:30,232 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (7387e8d69c14d2d37d32af8716f8adc5)] -> xpath: //button[@data-mode='login']] is clickable 
+2021-12-01 16:56:30,435 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (7387e8d69c14d2d37d32af8716f8adc5)] -> xpath: //button[@data-mode='login']]' clicked successful. 
+2021-12-01 16:56:30,539 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (7387e8d69c14d2d37d32af8716f8adc5)] -> name: username] 
+2021-12-01 16:56:30,622 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (7387e8d69c14d2d37d32af8716f8adc5)] -> name: username] is clickable 
+2021-12-01 16:56:30,928 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (7387e8d69c14d2d37d32af8716f8adc5)] -> name: username]--shruti18saggi@gmail.com 
+2021-12-01 16:56:30,952 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (7387e8d69c14d2d37d32af8716f8adc5)] -> name: password] 
+2021-12-01 16:56:31,024 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (7387e8d69c14d2d37d32af8716f8adc5)] -> name: password] is clickable 
+2021-12-01 16:56:31,184 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (7387e8d69c14d2d37d32af8716f8adc5)] -> name: password]--test@123 
+2021-12-01 16:56:31,203 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (7387e8d69c14d2d37d32af8716f8adc5)] -> xpath: //button[@type='submit']] 
+2021-12-01 16:56:31,313 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (7387e8d69c14d2d37d32af8716f8adc5)] -> xpath: //button[@type='submit']] is clickable 
+2021-12-01 16:56:31,409 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (7387e8d69c14d2d37d32af8716f8adc5)] -> xpath: //button[@type='submit']]' clicked successful. 
+2021-12-01 16:56:31,410 INFO  [Log] Base class constructor 
+2021-12-01 16:56:53,991 INFO  [Log] App urlhttps://picsart.com 
+2021-12-01 16:56:53,992 INFO  [Log] browserNamechrome 
+2021-12-01 16:57:01,875 INFO  [Log] Base class constructor 
+2021-12-01 16:57:01,876 INFO  [Log] ----Login Page---  
+2021-12-01 16:57:01,876 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 16:57:01,963 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-01 16:57:01,963 INFO  [Log] Clicking Login 
+2021-12-01 16:57:01,993 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (37fc5b0ef736715453624a94d7509ecf)] -> xpath: //button[@data-mode='login']] 
+2021-12-01 16:57:02,147 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (37fc5b0ef736715453624a94d7509ecf)] -> xpath: //button[@data-mode='login']] is clickable 
+2021-12-01 16:57:02,429 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (37fc5b0ef736715453624a94d7509ecf)] -> xpath: //button[@data-mode='login']]' clicked successful. 
+2021-12-01 16:57:02,451 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (37fc5b0ef736715453624a94d7509ecf)] -> name: username] 
+2021-12-01 16:57:02,547 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (37fc5b0ef736715453624a94d7509ecf)] -> name: username] is clickable 
+2021-12-01 16:57:02,796 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (37fc5b0ef736715453624a94d7509ecf)] -> name: username]--shruti18saggi@gmail.com 
+2021-12-01 16:57:02,882 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (37fc5b0ef736715453624a94d7509ecf)] -> name: password] 
+2021-12-01 16:57:02,929 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (37fc5b0ef736715453624a94d7509ecf)] -> name: password] is clickable 
+2021-12-01 16:57:03,120 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (37fc5b0ef736715453624a94d7509ecf)] -> name: password]--test@123 
+2021-12-01 16:57:03,145 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (37fc5b0ef736715453624a94d7509ecf)] -> xpath: //button[@type='submit']] 
+2021-12-01 16:57:03,263 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (37fc5b0ef736715453624a94d7509ecf)] -> xpath: //button[@type='submit']] is clickable 
+2021-12-01 16:57:03,340 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (37fc5b0ef736715453624a94d7509ecf)] -> xpath: //button[@type='submit']]' clicked successful. 
+2021-12-01 16:57:03,342 INFO  [Log] Base class constructor 
+2021-12-01 16:57:03,364 INFO  [Log] Logging Out 
+2021-12-01 16:57:07,897 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (37fc5b0ef736715453624a94d7509ecf)] -> xpath: //img[@title='User avatar']] 
+2021-12-01 16:57:08,102 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (37fc5b0ef736715453624a94d7509ecf)] -> xpath: //img[@title='User avatar']] is clickable 
+2021-12-01 16:57:08,507 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (37fc5b0ef736715453624a94d7509ecf)] -> xpath: //img[@title='User avatar']]' clicked successful. 
+2021-12-01 16:57:08,534 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (37fc5b0ef736715453624a94d7509ecf)] -> xpath: //a[@href='/logout']] 
+2021-12-01 16:57:08,639 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (37fc5b0ef736715453624a94d7509ecf)] -> xpath: //a[@href='/logout']] is clickable 
+2021-12-01 16:57:31,936 INFO  [Log] Element: 'Proxy element for: DefaultElementLocator 'By.xpath: //a[@href='/logout']'' clicked successful. 
+2021-12-01 16:58:01,713 INFO  [Log] App urlhttps://picsart.com 
+2021-12-01 16:58:01,714 INFO  [Log] browserNamechrome 
+2021-12-01 16:58:09,598 INFO  [Log] Base class constructor 
+2021-12-01 16:58:09,599 INFO  [Log] ----Login Page---  
+2021-12-01 16:58:09,599 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 16:58:09,686 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-01 16:58:09,686 INFO  [Log] Clicking Login 
+2021-12-01 16:58:09,724 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (5f2632632e1ff8de4b9c284370847267)] -> xpath: //button[@data-mode='login']] 
+2021-12-01 16:58:09,888 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (5f2632632e1ff8de4b9c284370847267)] -> xpath: //button[@data-mode='login']] is clickable 
+2021-12-01 16:58:10,190 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (5f2632632e1ff8de4b9c284370847267)] -> xpath: //button[@data-mode='login']]' clicked successful. 
+2021-12-01 16:58:10,221 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (5f2632632e1ff8de4b9c284370847267)] -> name: username] 
+2021-12-01 16:58:10,293 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (5f2632632e1ff8de4b9c284370847267)] -> name: username] is clickable 
+2021-12-01 16:58:10,692 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (5f2632632e1ff8de4b9c284370847267)] -> name: username]--shruti18saggi@gmail.com 
+2021-12-01 16:58:10,709 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (5f2632632e1ff8de4b9c284370847267)] -> name: password] 
+2021-12-01 16:58:10,781 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (5f2632632e1ff8de4b9c284370847267)] -> name: password] is clickable 
+2021-12-01 16:58:11,003 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (5f2632632e1ff8de4b9c284370847267)] -> name: password]--test@123 
+2021-12-01 16:58:11,026 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (5f2632632e1ff8de4b9c284370847267)] -> xpath: //button[@type='submit']] 
+2021-12-01 16:58:11,123 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (5f2632632e1ff8de4b9c284370847267)] -> xpath: //button[@type='submit']] is clickable 
+2021-12-01 16:58:11,254 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (5f2632632e1ff8de4b9c284370847267)] -> xpath: //button[@type='submit']]' clicked successful. 
+2021-12-01 16:58:11,255 INFO  [Log] Base class constructor 
+2021-12-01 16:58:19,263 INFO  [Log] Logging Out 
+2021-12-01 16:58:35,639 INFO  [Log] Exceptionchrome not reachable
+  (Session info: chrome=96.0.4664.45)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'SHRUJIND-IN', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\shrujind\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49292}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5f2632632e1ff8de4b9c284370847267
+*** Element info: {Using=xpath, value=//img[@title='User avatar']} 
+2021-12-01 16:58:35,648 INFO  [Log] App urlhttps://picsart.com 
+2021-12-01 16:58:35,649 INFO  [Log] browserNamechrome 
+2021-12-01 16:58:43,739 INFO  [Log] Base class constructor 
+2021-12-01 16:58:43,741 INFO  [Log] ----Login Page---  
+2021-12-01 16:58:43,741 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 16:58:43,845 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-01 16:58:43,845 INFO  [Log] Clicking Login 
+2021-12-01 16:58:43,897 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (c14dd6359765a6978b85d027000a8165)] -> xpath: //button[@data-mode='login']] 
+2021-12-01 16:58:44,078 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (c14dd6359765a6978b85d027000a8165)] -> xpath: //button[@data-mode='login']] is clickable 
+2021-12-01 16:58:44,224 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (c14dd6359765a6978b85d027000a8165)] -> xpath: //button[@data-mode='login']]' clicked successful. 
+2021-12-01 16:58:44,259 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (c14dd6359765a6978b85d027000a8165)] -> name: username] 
+2021-12-01 16:58:44,405 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (c14dd6359765a6978b85d027000a8165)] -> name: username] is clickable 
+2021-12-01 16:58:44,709 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (c14dd6359765a6978b85d027000a8165)] -> name: username]--shruti18saggi@gmail.com 
+2021-12-01 16:58:44,792 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (c14dd6359765a6978b85d027000a8165)] -> name: password] 
+2021-12-01 16:58:44,839 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (c14dd6359765a6978b85d027000a8165)] -> name: password] is clickable 
+2021-12-01 16:58:45,034 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (c14dd6359765a6978b85d027000a8165)] -> name: password]--test@123 
+2021-12-01 16:58:45,055 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (c14dd6359765a6978b85d027000a8165)] -> xpath: //button[@type='submit']] 
+2021-12-01 16:58:45,219 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (c14dd6359765a6978b85d027000a8165)] -> xpath: //button[@type='submit']] is clickable 
+2021-12-01 16:58:45,374 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (c14dd6359765a6978b85d027000a8165)] -> xpath: //button[@type='submit']]' clicked successful. 
+2021-12-01 16:58:45,376 INFO  [Log] Base class constructor 
+2021-12-01 16:59:18,084 INFO  [Log] App urlhttps://picsart.com 
+2021-12-01 16:59:18,084 INFO  [Log] browserNamechrome 
+2021-12-01 16:59:25,979 INFO  [Log] Base class constructor 
+2021-12-01 16:59:25,980 INFO  [Log] ----Login Page---  
+2021-12-01 16:59:25,980 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 16:59:26,087 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-01 16:59:26,087 INFO  [Log] Clicking Login 
+2021-12-01 16:59:26,121 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (05d95adab9b5d649ef204b76aa0a2bde)] -> xpath: //button[@data-mode='login']] 
+2021-12-01 16:59:26,306 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (05d95adab9b5d649ef204b76aa0a2bde)] -> xpath: //button[@data-mode='login']] is clickable 
+2021-12-01 16:59:26,599 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (05d95adab9b5d649ef204b76aa0a2bde)] -> xpath: //button[@data-mode='login']]' clicked successful. 
+2021-12-01 16:59:26,628 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (05d95adab9b5d649ef204b76aa0a2bde)] -> name: username] 
+2021-12-01 16:59:26,697 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (05d95adab9b5d649ef204b76aa0a2bde)] -> name: username] is clickable 
+2021-12-01 16:59:27,023 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (05d95adab9b5d649ef204b76aa0a2bde)] -> name: username]--shruti18saggi@gmail.com 
+2021-12-01 16:59:27,043 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (05d95adab9b5d649ef204b76aa0a2bde)] -> name: password] 
+2021-12-01 16:59:27,085 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (05d95adab9b5d649ef204b76aa0a2bde)] -> name: password] is clickable 
+2021-12-01 16:59:27,262 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (05d95adab9b5d649ef204b76aa0a2bde)] -> name: password]--test@123 
+2021-12-01 16:59:27,284 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (05d95adab9b5d649ef204b76aa0a2bde)] -> xpath: //button[@type='submit']] 
+2021-12-01 16:59:27,372 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (05d95adab9b5d649ef204b76aa0a2bde)] -> xpath: //button[@type='submit']] is clickable 
+2021-12-01 16:59:27,546 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (05d95adab9b5d649ef204b76aa0a2bde)] -> xpath: //button[@type='submit']]' clicked successful. 
+2021-12-01 16:59:27,547 INFO  [Log] Base class constructor 
+2021-12-01 16:59:35,600 INFO  [Log] Logging Out 
+2021-12-01 16:59:35,644 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (05d95adab9b5d649ef204b76aa0a2bde)] -> xpath: //img[@title='User avatar']] 
+2021-12-01 16:59:35,759 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (05d95adab9b5d649ef204b76aa0a2bde)] -> xpath: //img[@title='User avatar']] is clickable 
+2021-12-01 16:59:35,908 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (05d95adab9b5d649ef204b76aa0a2bde)] -> xpath: //img[@title='User avatar']]' clicked successful. 
+2021-12-01 16:59:35,977 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (05d95adab9b5d649ef204b76aa0a2bde)] -> xpath: //a[@href='/logout']] 
+2021-12-01 16:59:36,120 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (05d95adab9b5d649ef204b76aa0a2bde)] -> xpath: //a[@href='/logout']] is clickable 
+2021-12-01 16:59:39,464 INFO  [Log] Element: 'Proxy element for: DefaultElementLocator 'By.xpath: //a[@href='/logout']'' clicked successful. 
+2021-12-01 17:01:42,175 INFO  [Log] App urlhttps://picsart.com 
+2021-12-01 17:01:42,175 INFO  [Log] browserNamechrome 
+2021-12-01 17:01:49,911 INFO  [Log] Base class constructor 
+2021-12-01 17:01:49,912 INFO  [Log] ----Login Page---  
+2021-12-01 17:01:49,912 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 17:01:50,042 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-01 17:01:50,042 INFO  [Log] Clicking Login 
+2021-12-01 17:01:50,063 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (d32c89a83f5af7b2185de5aa88536083)] -> xpath: //button[@data-mode='login']] 
+2021-12-01 17:01:50,246 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (d32c89a83f5af7b2185de5aa88536083)] -> xpath: //button[@data-mode='login']] is clickable 
+2021-12-01 17:01:56,433 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (d32c89a83f5af7b2185de5aa88536083)] -> xpath: //button[@data-mode='login']]' clicked successful. 
+2021-12-01 17:01:56,464 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (d32c89a83f5af7b2185de5aa88536083)] -> name: username] 
+2021-12-01 17:01:56,521 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (d32c89a83f5af7b2185de5aa88536083)] -> name: username] is clickable 
+2021-12-01 17:01:56,778 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (d32c89a83f5af7b2185de5aa88536083)] -> name: username]--shruti18saggi@gmail.com 
+2021-12-01 17:02:02,820 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (d32c89a83f5af7b2185de5aa88536083)] -> name: password] 
+2021-12-01 17:02:02,862 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (d32c89a83f5af7b2185de5aa88536083)] -> name: password] is clickable 
+2021-12-01 17:02:03,006 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (d32c89a83f5af7b2185de5aa88536083)] -> name: password]--test@123 
+2021-12-01 17:02:09,050 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (d32c89a83f5af7b2185de5aa88536083)] -> xpath: //button[@type='submit']] 
+2021-12-01 17:02:09,126 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (d32c89a83f5af7b2185de5aa88536083)] -> xpath: //button[@type='submit']] is clickable 
+2021-12-01 17:02:15,270 INFO  [Log] Element: 'Proxy element for: DefaultElementLocator 'By.xpath: //button[@type='submit']'' clicked successful. 
+2021-12-01 17:02:15,271 INFO  [Log] Base class constructor 
+2021-12-01 17:02:15,278 INFO  [Log] Logging Out 
+2021-12-01 17:02:15,301 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (d32c89a83f5af7b2185de5aa88536083)] -> xpath: //img[@title='User avatar']] 
+2021-12-01 17:02:15,407 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (d32c89a83f5af7b2185de5aa88536083)] -> xpath: //img[@title='User avatar']] is clickable 
+2021-12-01 17:02:21,563 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (d32c89a83f5af7b2185de5aa88536083)] -> xpath: //img[@title='User avatar']]' clicked successful. 
+2021-12-01 17:02:21,586 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (d32c89a83f5af7b2185de5aa88536083)] -> xpath: //a[@href='/logout']] 
+2021-12-01 17:02:21,675 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (d32c89a83f5af7b2185de5aa88536083)] -> xpath: //a[@href='/logout']] is clickable 
+2021-12-01 17:02:30,961 INFO  [Log] Element: 'Proxy element for: DefaultElementLocator 'By.xpath: //a[@href='/logout']'' clicked successful. 
+2021-12-01 17:02:30,966 INFO  [Log] ---clickCreateTest execution completed -------- 
+2021-12-01 17:03:07,893 INFO  [Log] App urlhttps://picsart.com 
+2021-12-01 17:03:07,894 INFO  [Log] browserNamechrome 
+2021-12-01 17:03:15,654 INFO  [Log] Base class constructor 
+2021-12-01 17:03:15,655 INFO  [Log] ----Login Page---  
+2021-12-01 17:03:15,656 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 17:03:15,745 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-01 17:03:15,745 INFO  [Log] Clicking Login 
+2021-12-01 17:03:15,790 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (2cb686bda46b89f209de39a7166f1ecf)] -> xpath: //button[@data-mode='login']] 
+2021-12-01 17:03:15,968 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (2cb686bda46b89f209de39a7166f1ecf)] -> xpath: //button[@data-mode='login']] is clickable 
+2021-12-01 17:03:18,153 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (2cb686bda46b89f209de39a7166f1ecf)] -> xpath: //button[@data-mode='login']]' clicked successful. 
+2021-12-01 17:03:18,166 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (2cb686bda46b89f209de39a7166f1ecf)] -> name: username] 
+2021-12-01 17:03:18,210 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (2cb686bda46b89f209de39a7166f1ecf)] -> name: username] is clickable 
+2021-12-01 17:03:18,648 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (2cb686bda46b89f209de39a7166f1ecf)] -> name: username]--shruti18saggi@gmail.com 
+2021-12-01 17:03:20,681 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (2cb686bda46b89f209de39a7166f1ecf)] -> name: password] 
+2021-12-01 17:03:20,767 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (2cb686bda46b89f209de39a7166f1ecf)] -> name: password] is clickable 
+2021-12-01 17:03:20,944 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (2cb686bda46b89f209de39a7166f1ecf)] -> name: password]--test@123 
+2021-12-01 17:03:22,978 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (2cb686bda46b89f209de39a7166f1ecf)] -> xpath: //button[@type='submit']] 
+2021-12-01 17:03:23,083 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (2cb686bda46b89f209de39a7166f1ecf)] -> xpath: //button[@type='submit']] is clickable 
+2021-12-01 17:03:26,716 INFO  [Log] Element: 'Proxy element for: DefaultElementLocator 'By.xpath: //button[@type='submit']'' clicked successful. 
+2021-12-01 17:03:26,718 INFO  [Log] Base class constructor 
+2021-12-01 17:03:26,730 INFO  [Log] Logging Out 
+2021-12-01 17:03:26,752 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (2cb686bda46b89f209de39a7166f1ecf)] -> xpath: //img[@title='User avatar']] 
+2021-12-01 17:03:26,977 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (2cb686bda46b89f209de39a7166f1ecf)] -> xpath: //img[@title='User avatar']] is clickable 
+2021-12-01 17:03:29,174 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (2cb686bda46b89f209de39a7166f1ecf)] -> xpath: //img[@title='User avatar']]' clicked successful. 
+2021-12-01 17:03:29,194 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (2cb686bda46b89f209de39a7166f1ecf)] -> xpath: //a[@href='/logout']] 
+2021-12-01 17:03:29,312 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (2cb686bda46b89f209de39a7166f1ecf)] -> xpath: //a[@href='/logout']] is clickable 
+2021-12-01 17:03:34,007 INFO  [Log] Element: 'Proxy element for: DefaultElementLocator 'By.xpath: //a[@href='/logout']'' clicked successful. 
+2021-12-01 17:03:34,012 INFO  [Log] ---clickCreateTest execution completed -------- 
+2021-12-01 17:21:12,428 INFO  [Log] App urlhttps://picsart.com/blog/ 
+2021-12-01 17:21:12,429 INFO  [Log] browserNamechrome 
+2021-12-01 17:21:20,380 INFO  [Log] Base class constructor 
+2021-12-01 17:21:20,381 INFO  [Log] ----Login Page---  
+2021-12-01 17:21:20,381 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 17:21:20,438 INFO  [Log] Base class constructor 
+2021-12-01 17:21:20,440 INFO  [Log] ----Blog Page---  
+2021-12-01 17:21:20,440 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 17:21:20,485 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-01 17:21:20,720 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (bcf9b790237fd70cf85752e3ea628a73)] -> xpath: //a[@href='/blog']] 
+2021-12-01 17:21:21,025 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (bcf9b790237fd70cf85752e3ea628a73)] -> xpath: //a[@href='/blog']] is clickable 
+2021-12-01 17:21:23,187 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (bcf9b790237fd70cf85752e3ea628a73)] -> xpath: //a[@href='/blog']]' clicked successful. 
+2021-12-01 17:22:17,967 INFO  [Log] App urlhttps://picsart.com/blog/ 
+2021-12-01 17:22:17,967 INFO  [Log] browserNamechrome 
+2021-12-01 17:22:25,930 INFO  [Log] Base class constructor 
+2021-12-01 17:22:25,932 INFO  [Log] ----Login Page---  
+2021-12-01 17:22:25,932 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 17:22:25,996 INFO  [Log] Base class constructor 
+2021-12-01 17:22:25,998 INFO  [Log] ----Blog Page---  
+2021-12-01 17:22:25,998 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 17:22:26,040 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-01 17:22:26,253 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (233712ef78ec7d3409b4b10e5b31e33a)] -> xpath: //a[@href='/blog']] 
+2021-12-01 17:22:26,576 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (233712ef78ec7d3409b4b10e5b31e33a)] -> xpath: //a[@href='/blog']] is clickable 
+2021-12-01 17:22:28,821 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (233712ef78ec7d3409b4b10e5b31e33a)] -> xpath: //a[@href='/blog']]' clicked successful. 
+2021-12-01 17:22:28,851 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (233712ef78ec7d3409b4b10e5b31e33a)] -> xpath: //a[@href='/blog/category/design-school']] 
+2021-12-01 17:22:28,927 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (233712ef78ec7d3409b4b10e5b31e33a)] -> xpath: //a[@href='/blog/category/design-school']] is clickable 
+2021-12-01 17:22:31,094 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (233712ef78ec7d3409b4b10e5b31e33a)] -> xpath: //a[@href='/blog/category/design-school']]' clicked successful. 
+2021-12-01 17:22:31,114 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (233712ef78ec7d3409b4b10e5b31e33a)] -> xpath: //a[@href='/blog/category/trends']] 
+2021-12-01 17:22:31,189 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (233712ef78ec7d3409b4b10e5b31e33a)] -> xpath: //a[@href='/blog/category/trends']] is clickable 
+2021-12-01 17:22:33,339 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (233712ef78ec7d3409b4b10e5b31e33a)] -> xpath: //a[@href='/blog/category/trends']]' clicked successful. 
+2021-12-01 17:22:33,359 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (233712ef78ec7d3409b4b10e5b31e33a)] -> xpath: //a[@href='/blog/category/picsart-pro']] 
+2021-12-01 17:22:33,436 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (233712ef78ec7d3409b4b10e5b31e33a)] -> xpath: //a[@href='/blog/category/picsart-pro']] is clickable 
+2021-12-01 17:22:35,590 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (233712ef78ec7d3409b4b10e5b31e33a)] -> xpath: //a[@href='/blog/category/picsart-pro']]' clicked successful. 
+2021-12-01 17:24:39,748 INFO  [Log] App urlhttps://picsart.com/blog/ 
+2021-12-01 17:24:39,749 INFO  [Log] browserNamechrome 
+2021-12-01 17:24:47,334 INFO  [Log] Base class constructor 
+2021-12-01 17:24:47,335 INFO  [Log] ----Login Page---  
+2021-12-01 17:24:47,335 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 17:24:47,407 INFO  [Log] Base class constructor 
+2021-12-01 17:24:47,410 INFO  [Log] ----Blog Page---  
+2021-12-01 17:24:47,410 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 17:24:47,459 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-01 17:24:47,700 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (63450c36065d48a5f331f7f621a8a012)] -> xpath: //a[@href='/blog']] 
+2021-12-01 17:24:48,190 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (63450c36065d48a5f331f7f621a8a012)] -> xpath: //a[@href='/blog']] is clickable 
+2021-12-01 17:24:50,385 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (63450c36065d48a5f331f7f621a8a012)] -> xpath: //a[@href='/blog']]' clicked successful. 
+2021-12-01 17:24:50,418 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (63450c36065d48a5f331f7f621a8a012)] -> xpath: //a[@href='/blog/category/design-school']] 
+2021-12-01 17:24:50,493 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (63450c36065d48a5f331f7f621a8a012)] -> xpath: //a[@href='/blog/category/design-school']] is clickable 
+2021-12-01 17:24:52,662 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (63450c36065d48a5f331f7f621a8a012)] -> xpath: //a[@href='/blog/category/design-school']]' clicked successful. 
+2021-12-01 17:24:52,681 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (63450c36065d48a5f331f7f621a8a012)] -> xpath: //a[@href='/blog/category/trends']] 
+2021-12-01 17:24:52,757 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (63450c36065d48a5f331f7f621a8a012)] -> xpath: //a[@href='/blog/category/trends']] is clickable 
+2021-12-01 17:24:54,922 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (63450c36065d48a5f331f7f621a8a012)] -> xpath: //a[@href='/blog/category/trends']]' clicked successful. 
+2021-12-01 17:24:54,956 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (63450c36065d48a5f331f7f621a8a012)] -> xpath: //a[@href='/blog/category/picsart-pro']] 
+2021-12-01 17:24:55,030 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (63450c36065d48a5f331f7f621a8a012)] -> xpath: //a[@href='/blog/category/picsart-pro']] is clickable 
+2021-12-01 17:24:57,175 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (63450c36065d48a5f331f7f621a8a012)] -> xpath: //a[@href='/blog/category/picsart-pro']]' clicked successful. 
+2021-12-01 17:25:22,606 INFO  [Log] App urlhttps://picsart.com/blog/ 
+2021-12-01 17:25:22,607 INFO  [Log] browserNamechrome 
+2021-12-01 17:25:30,582 INFO  [Log] Base class constructor 
+2021-12-01 17:25:30,584 INFO  [Log] ----Login Page---  
+2021-12-01 17:25:30,584 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 17:25:30,650 INFO  [Log] Base class constructor 
+2021-12-01 17:25:30,651 INFO  [Log] ----Blog Page---  
+2021-12-01 17:25:30,651 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 17:25:30,694 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-01 17:25:30,893 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (ebccc350c75a68b6ebbcc2a19d021910)] -> xpath: //a[@href='/blog']] 
+2021-12-01 17:25:31,263 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (ebccc350c75a68b6ebbcc2a19d021910)] -> xpath: //a[@href='/blog']] is clickable 
+2021-12-01 17:25:34,416 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (ebccc350c75a68b6ebbcc2a19d021910)] -> xpath: //a[@href='/blog']]' clicked successful. 
+2021-12-01 17:25:34,448 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (ebccc350c75a68b6ebbcc2a19d021910)] -> xpath: //a[@href='/blog/category/design-school']] 
+2021-12-01 17:25:34,523 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (ebccc350c75a68b6ebbcc2a19d021910)] -> xpath: //a[@href='/blog/category/design-school']] is clickable 
+2021-12-01 17:25:37,682 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (ebccc350c75a68b6ebbcc2a19d021910)] -> xpath: //a[@href='/blog/category/design-school']]' clicked successful. 
+2021-12-01 17:25:37,717 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (ebccc350c75a68b6ebbcc2a19d021910)] -> xpath: //a[@href='/blog/category/trends']] 
+2021-12-01 17:25:37,793 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (ebccc350c75a68b6ebbcc2a19d021910)] -> xpath: //a[@href='/blog/category/trends']] is clickable 
+2021-12-01 17:25:40,962 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (ebccc350c75a68b6ebbcc2a19d021910)] -> xpath: //a[@href='/blog/category/trends']]' clicked successful. 
+2021-12-01 17:25:40,981 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (ebccc350c75a68b6ebbcc2a19d021910)] -> xpath: //a[@href='/blog/category/picsart-pro']] 
+2021-12-01 17:25:41,058 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (ebccc350c75a68b6ebbcc2a19d021910)] -> xpath: //a[@href='/blog/category/picsart-pro']] is clickable 
+2021-12-01 17:25:44,220 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (ebccc350c75a68b6ebbcc2a19d021910)] -> xpath: //a[@href='/blog/category/picsart-pro']]' clicked successful. 
+2021-12-01 17:26:04,053 INFO  [Log] App urlhttps://picsart.com/blog/ 
+2021-12-01 17:26:04,054 INFO  [Log] browserNamechrome 
+2021-12-01 17:26:11,716 INFO  [Log] Base class constructor 
+2021-12-01 17:26:11,718 INFO  [Log] ----Login Page---  
+2021-12-01 17:26:11,718 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 17:26:11,779 INFO  [Log] Base class constructor 
+2021-12-01 17:26:11,780 INFO  [Log] ----Blog Page---  
+2021-12-01 17:26:11,780 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 17:26:11,825 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-01 17:26:12,054 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (c3074465ba38419d66c382798f8d2896)] -> xpath: //a[@href='/blog']] 
+2021-12-01 17:26:12,411 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (c3074465ba38419d66c382798f8d2896)] -> xpath: //a[@href='/blog']] is clickable 
+2021-12-01 17:26:18,717 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (c3074465ba38419d66c382798f8d2896)] -> xpath: //a[@href='/blog']]' clicked successful. 
+2021-12-01 17:26:18,750 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (c3074465ba38419d66c382798f8d2896)] -> xpath: //a[@href='/blog/category/design-school']] 
+2021-12-01 17:26:18,856 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (c3074465ba38419d66c382798f8d2896)] -> xpath: //a[@href='/blog/category/design-school']] is clickable 
+2021-12-01 17:26:25,028 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (c3074465ba38419d66c382798f8d2896)] -> xpath: //a[@href='/blog/category/design-school']]' clicked successful. 
+2021-12-01 17:26:25,064 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (c3074465ba38419d66c382798f8d2896)] -> xpath: //a[@href='/blog/category/trends']] 
+2021-12-01 17:26:25,139 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (c3074465ba38419d66c382798f8d2896)] -> xpath: //a[@href='/blog/category/trends']] is clickable 
+2021-12-01 17:26:31,290 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (c3074465ba38419d66c382798f8d2896)] -> xpath: //a[@href='/blog/category/trends']]' clicked successful. 
+2021-12-01 17:26:31,318 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (c3074465ba38419d66c382798f8d2896)] -> xpath: //a[@href='/blog/category/picsart-pro']] 
+2021-12-01 17:26:31,393 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (c3074465ba38419d66c382798f8d2896)] -> xpath: //a[@href='/blog/category/picsart-pro']] is clickable 
+2021-12-01 17:26:37,557 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (c3074465ba38419d66c382798f8d2896)] -> xpath: //a[@href='/blog/category/picsart-pro']]' clicked successful. 
+2021-12-01 17:27:54,842 INFO  [Log] App urlhttps://picsart.com/blog/ 
+2021-12-01 17:27:54,843 INFO  [Log] browserNamechrome 
+2021-12-01 17:28:02,897 INFO  [Log] Base class constructor 
+2021-12-01 17:28:02,898 INFO  [Log] ----Login Page---  
+2021-12-01 17:28:02,898 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 17:28:02,965 INFO  [Log] Base class constructor 
+2021-12-01 17:28:02,966 INFO  [Log] ----Blog Page---  
+2021-12-01 17:28:02,967 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 17:28:03,017 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-01 17:28:03,243 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (c771656459bf6bb945d8d11d59f6f17c)] -> xpath: //a[@href='/blog']] 
+2021-12-01 17:28:03,596 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (c771656459bf6bb945d8d11d59f6f17c)] -> xpath: //a[@href='/blog']] is clickable 
+2021-12-01 17:28:05,935 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (c771656459bf6bb945d8d11d59f6f17c)] -> xpath: //a[@href='/blog']]' clicked successful. 
+2021-12-01 17:28:05,968 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (c771656459bf6bb945d8d11d59f6f17c)] -> xpath: //a[@href='/blog/category/design-school']] 
+2021-12-01 17:28:06,057 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (c771656459bf6bb945d8d11d59f6f17c)] -> xpath: //a[@href='/blog/category/design-school']] is clickable 
+2021-12-01 17:28:08,208 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (c771656459bf6bb945d8d11d59f6f17c)] -> xpath: //a[@href='/blog/category/design-school']]' clicked successful. 
+2021-12-01 17:28:08,242 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (c771656459bf6bb945d8d11d59f6f17c)] -> xpath: //a[@href='/blog/category/trends']] 
+2021-12-01 17:28:08,318 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (c771656459bf6bb945d8d11d59f6f17c)] -> xpath: //a[@href='/blog/category/trends']] is clickable 
+2021-12-01 17:28:10,472 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (c771656459bf6bb945d8d11d59f6f17c)] -> xpath: //a[@href='/blog/category/trends']]' clicked successful. 
+2021-12-01 17:28:10,490 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (c771656459bf6bb945d8d11d59f6f17c)] -> xpath: //a[@href='/blog/category/picsart-pro']] 
+2021-12-01 17:28:10,567 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (c771656459bf6bb945d8d11d59f6f17c)] -> xpath: //a[@href='/blog/category/picsart-pro']] is clickable 
+2021-12-01 17:28:12,708 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (c771656459bf6bb945d8d11d59f6f17c)] -> xpath: //a[@href='/blog/category/picsart-pro']]' clicked successful. 
+2021-12-01 17:28:12,727 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (c771656459bf6bb945d8d11d59f6f17c)] -> xpath: //a[@href='/blog/category/news']] 
+2021-12-01 17:28:12,804 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (c771656459bf6bb945d8d11d59f6f17c)] -> xpath: //a[@href='/blog/category/news']] is clickable 
+2021-12-01 17:28:14,946 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (c771656459bf6bb945d8d11d59f6f17c)] -> xpath: //a[@href='/blog/category/news']]' clicked successful. 
+2021-12-01 17:28:42,747 INFO  [Log] App urlhttps://picsart.com/blog/ 
+2021-12-01 17:28:42,748 INFO  [Log] browserNamechrome 
+2021-12-01 17:28:50,766 INFO  [Log] Base class constructor 
+2021-12-01 17:28:50,768 INFO  [Log] ----Login Page---  
+2021-12-01 17:28:50,768 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 17:28:50,821 INFO  [Log] Base class constructor 
+2021-12-01 17:28:50,824 INFO  [Log] ----Blog Page---  
+2021-12-01 17:28:50,824 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 17:28:50,870 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-01 17:28:51,090 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (19d69b2722dd313473a84ab279fe9dbd)] -> xpath: //a[@href='/blog']] 
+2021-12-01 17:28:51,545 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (19d69b2722dd313473a84ab279fe9dbd)] -> xpath: //a[@href='/blog']] is clickable 
+2021-12-01 17:28:53,798 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (19d69b2722dd313473a84ab279fe9dbd)] -> xpath: //a[@href='/blog']]' clicked successful. 
+2021-12-01 17:28:53,829 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (19d69b2722dd313473a84ab279fe9dbd)] -> xpath: //a[@href='/blog/category/design-school']] 
+2021-12-01 17:28:53,921 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (19d69b2722dd313473a84ab279fe9dbd)] -> xpath: //a[@href='/blog/category/design-school']] is clickable 
+2021-12-01 17:28:56,077 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (19d69b2722dd313473a84ab279fe9dbd)] -> xpath: //a[@href='/blog/category/design-school']]' clicked successful. 
+2021-12-01 17:28:56,097 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (19d69b2722dd313473a84ab279fe9dbd)] -> xpath: //a[@href='/blog/category/trends']] 
+2021-12-01 17:28:56,174 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (19d69b2722dd313473a84ab279fe9dbd)] -> xpath: //a[@href='/blog/category/trends']] is clickable 
+2021-12-01 17:28:58,342 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (19d69b2722dd313473a84ab279fe9dbd)] -> xpath: //a[@href='/blog/category/trends']]' clicked successful. 
+2021-12-01 17:28:58,362 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (19d69b2722dd313473a84ab279fe9dbd)] -> xpath: //a[@href='/blog/category/picsart-pro']] 
+2021-12-01 17:28:58,440 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (19d69b2722dd313473a84ab279fe9dbd)] -> xpath: //a[@href='/blog/category/picsart-pro']] is clickable 
+2021-12-01 17:29:00,615 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (19d69b2722dd313473a84ab279fe9dbd)] -> xpath: //a[@href='/blog/category/picsart-pro']]' clicked successful. 
+2021-12-01 17:29:00,649 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (19d69b2722dd313473a84ab279fe9dbd)] -> xpath: //a[@href='/blog/category/news']] 
+2021-12-01 17:29:00,725 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (19d69b2722dd313473a84ab279fe9dbd)] -> xpath: //a[@href='/blog/category/news']] is clickable 
+2021-12-01 17:29:02,876 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (19d69b2722dd313473a84ab279fe9dbd)] -> xpath: //a[@href='/blog/category/news']]' clicked successful. 
+2021-12-01 17:29:41,848 INFO  [Log] App urlhttps://picsart.com/blog/ 
+2021-12-01 17:29:41,849 INFO  [Log] browserNamechrome 
+2021-12-01 17:29:49,415 INFO  [Log] Base class constructor 
+2021-12-01 17:29:49,415 INFO  [Log] ----Login Page---  
+2021-12-01 17:29:49,416 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 17:29:49,487 INFO  [Log] Base class constructor 
+2021-12-01 17:29:49,488 INFO  [Log] ----Blog Page---  
+2021-12-01 17:29:49,488 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 17:29:49,539 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-01 17:29:49,790 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (53862b4d3b927502ad103291e47af378)] -> xpath: //a[@href='/blog']] 
+2021-12-01 17:29:50,169 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (53862b4d3b927502ad103291e47af378)] -> xpath: //a[@href='/blog']] is clickable 
+2021-12-01 17:29:52,467 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (53862b4d3b927502ad103291e47af378)] -> xpath: //a[@href='/blog']]' clicked successful. 
+2021-12-01 17:29:52,499 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (53862b4d3b927502ad103291e47af378)] -> xpath: //a[@href='/blog/category/design-school']] 
+2021-12-01 17:29:52,576 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (53862b4d3b927502ad103291e47af378)] -> xpath: //a[@href='/blog/category/design-school']] is clickable 
+2021-12-01 17:29:54,748 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (53862b4d3b927502ad103291e47af378)] -> xpath: //a[@href='/blog/category/design-school']]' clicked successful. 
+2021-12-01 17:29:54,780 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (53862b4d3b927502ad103291e47af378)] -> xpath: //a[@href='/blog/category/trends']] 
+2021-12-01 17:29:54,857 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (53862b4d3b927502ad103291e47af378)] -> xpath: //a[@href='/blog/category/trends']] is clickable 
+2021-12-01 17:29:57,010 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (53862b4d3b927502ad103291e47af378)] -> xpath: //a[@href='/blog/category/trends']]' clicked successful. 
+2021-12-01 17:29:57,029 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (53862b4d3b927502ad103291e47af378)] -> xpath: //a[@href='/blog/category/picsart-pro']] 
+2021-12-01 17:29:57,119 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (53862b4d3b927502ad103291e47af378)] -> xpath: //a[@href='/blog/category/picsart-pro']] is clickable 
+2021-12-01 17:29:59,281 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (53862b4d3b927502ad103291e47af378)] -> xpath: //a[@href='/blog/category/picsart-pro']]' clicked successful. 
+2021-12-01 17:29:59,318 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (53862b4d3b927502ad103291e47af378)] -> xpath: //a[@href='/blog/category/news']] 
+2021-12-01 17:29:59,392 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (53862b4d3b927502ad103291e47af378)] -> xpath: //a[@href='/blog/category/news']] is clickable 
+2021-12-01 17:30:01,554 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (53862b4d3b927502ad103291e47af378)] -> xpath: //a[@href='/blog/category/news']]' clicked successful. 
+2021-12-01 17:30:01,559 INFO  [Log] Logging Out 
+2021-12-01 17:30:01,609 INFO  [Log] Searching for elementProxy element for: DefaultElementLocator 'By.xpath: //img[@title='User avatar']' 
+2021-12-01 19:05:26,595 INFO  [Log] App urlhttps://picsart.com/blog/ 
+2021-12-01 19:05:26,596 INFO  [Log] browserNamechrome 
+2021-12-01 19:05:34,706 INFO  [Log] Base class constructor 
+2021-12-01 19:05:34,707 INFO  [Log] ----Login Page---  
+2021-12-01 19:05:34,707 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 19:05:34,760 INFO  [Log] Base class constructor 
+2021-12-01 19:05:34,762 INFO  [Log] ----Blog Page---  
+2021-12-01 19:05:34,763 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 19:05:34,808 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-01 19:05:35,039 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (2c5883b80b276e1a7459ede0b9b3178f)] -> xpath: //a[@href='/blog']] 
+2021-12-01 19:05:35,380 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (2c5883b80b276e1a7459ede0b9b3178f)] -> xpath: //a[@href='/blog']] is clickable 
+2021-12-01 19:05:37,561 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (2c5883b80b276e1a7459ede0b9b3178f)] -> xpath: //a[@href='/blog']]' clicked successful. 
+2021-12-01 19:05:37,595 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (2c5883b80b276e1a7459ede0b9b3178f)] -> xpath: //a[@href='/blog/category/design-school']] 
+2021-12-01 19:05:37,692 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (2c5883b80b276e1a7459ede0b9b3178f)] -> xpath: //a[@href='/blog/category/design-school']] is clickable 
+2021-12-01 19:05:39,863 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (2c5883b80b276e1a7459ede0b9b3178f)] -> xpath: //a[@href='/blog/category/design-school']]' clicked successful. 
+2021-12-01 19:05:39,896 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (2c5883b80b276e1a7459ede0b9b3178f)] -> xpath: //a[@href='/blog/category/trends']] 
+2021-12-01 19:05:39,970 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (2c5883b80b276e1a7459ede0b9b3178f)] -> xpath: //a[@href='/blog/category/trends']] is clickable 
+2021-12-01 19:05:42,128 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (2c5883b80b276e1a7459ede0b9b3178f)] -> xpath: //a[@href='/blog/category/trends']]' clicked successful. 
+2021-12-01 19:05:42,151 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (2c5883b80b276e1a7459ede0b9b3178f)] -> xpath: //a[@href='/blog/category/picsart-pro']] 
+2021-12-01 19:05:42,253 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (2c5883b80b276e1a7459ede0b9b3178f)] -> xpath: //a[@href='/blog/category/picsart-pro']] is clickable 
+2021-12-01 19:05:44,414 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (2c5883b80b276e1a7459ede0b9b3178f)] -> xpath: //a[@href='/blog/category/picsart-pro']]' clicked successful. 
+2021-12-01 19:05:44,434 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (2c5883b80b276e1a7459ede0b9b3178f)] -> xpath: //a[@href='/blog/category/news']] 
+2021-12-01 19:05:44,510 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (2c5883b80b276e1a7459ede0b9b3178f)] -> xpath: //a[@href='/blog/category/news']] is clickable 
+2021-12-01 19:05:46,662 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (2c5883b80b276e1a7459ede0b9b3178f)] -> xpath: //a[@href='/blog/category/news']]' clicked successful. 
+2021-12-01 19:05:46,666 INFO  [Log] ---clickLinkTest execution completed -------- 
+2021-12-01 19:05:46,670 INFO  [Log] ---serachCategory execution started -------- 
+2021-12-01 19:05:46,697 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (2c5883b80b276e1a7459ede0b9b3178f)] -> xpath: //button[@class='search-form-searchButton-0-2-131']] 
+2021-12-01 19:05:46,774 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (2c5883b80b276e1a7459ede0b9b3178f)] -> xpath: //button[@class='search-form-searchButton-0-2-131']] is clickable 
+2021-12-01 19:05:48,867 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (2c5883b80b276e1a7459ede0b9b3178f)] -> xpath: //button[@class='search-form-searchButton-0-2-131']]' clicked successful. 
+2021-12-01 19:05:48,886 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (2c5883b80b276e1a7459ede0b9b3178f)] -> xpath: //input[@placeholder='Search']] 
+2021-12-01 19:05:48,931 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (2c5883b80b276e1a7459ede0b9b3178f)] -> xpath: //input[@placeholder='Search']] is clickable 
+2021-12-01 19:05:49,059 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (2c5883b80b276e1a7459ede0b9b3178f)] -> xpath: //input[@placeholder='Search']]--News 
+2021-12-01 19:05:51,071 INFO  [Log] ---serachCategory execution completed -------- 
+2021-12-01 19:07:12,485 INFO  [Log] App urlhttps://picsart.com/blog/ 
+2021-12-01 19:07:12,486 INFO  [Log] browserNamechrome 
+2021-12-01 19:07:20,354 INFO  [Log] Base class constructor 
+2021-12-01 19:07:20,356 INFO  [Log] ----Login Page---  
+2021-12-01 19:07:20,356 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 19:07:20,427 INFO  [Log] Base class constructor 
+2021-12-01 19:07:20,428 INFO  [Log] ----Blog Page---  
+2021-12-01 19:07:20,428 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 19:07:20,442 INFO  [Log] App urlhttps://picsart.com 
+2021-12-01 19:07:20,443 INFO  [Log] browserNamechrome 
+2021-12-01 19:07:27,191 INFO  [Log] Base class constructor 
+2021-12-01 19:07:27,192 INFO  [Log] ----Login Page---  
+2021-12-01 19:07:27,192 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 19:07:27,279 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-01 19:07:27,279 INFO  [Log] Clicking Login 
+2021-12-01 19:07:27,323 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (0b1b22de2381642ec51f3bef35cd0c06)] -> xpath: //button[@data-mode='login']] 
+2021-12-01 19:07:27,528 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (0b1b22de2381642ec51f3bef35cd0c06)] -> xpath: //button[@data-mode='login']] is clickable 
+2021-12-01 19:07:29,742 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (0b1b22de2381642ec51f3bef35cd0c06)] -> xpath: //button[@data-mode='login']]' clicked successful. 
+2021-12-01 19:07:29,836 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (0b1b22de2381642ec51f3bef35cd0c06)] -> name: username] 
+2021-12-01 19:07:30,021 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (0b1b22de2381642ec51f3bef35cd0c06)] -> name: username] is clickable 
+2021-12-01 19:07:31,021 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (0b1b22de2381642ec51f3bef35cd0c06)] -> name: username]--shruti18saggi@gmail.com 
+2021-12-01 19:07:33,084 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (0b1b22de2381642ec51f3bef35cd0c06)] -> name: password] 
+2021-12-01 19:07:33,208 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (0b1b22de2381642ec51f3bef35cd0c06)] -> name: password] is clickable 
+2021-12-01 19:07:33,543 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (0b1b22de2381642ec51f3bef35cd0c06)] -> name: password]--test@123 
+2021-12-01 19:07:35,574 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (0b1b22de2381642ec51f3bef35cd0c06)] -> xpath: //button[@type='submit']] 
+2021-12-01 19:07:35,661 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (0b1b22de2381642ec51f3bef35cd0c06)] -> xpath: //button[@type='submit']] is clickable 
+2021-12-01 19:07:40,053 INFO  [Log] Element: 'Proxy element for: DefaultElementLocator 'By.xpath: //button[@type='submit']'' clicked successful. 
+2021-12-01 19:07:40,056 INFO  [Log] Base class constructor 
+2021-12-01 19:07:40,120 INFO  [Log] Logging Out 
+2021-12-01 19:07:40,149 INFO  [Log] Searching for elementProxy element for: DefaultElementLocator 'By.xpath: //img[@title='User avatar']' 
+2021-12-01 19:07:40,838 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (0b1b22de2381642ec51f3bef35cd0c06)] -> xpath: //img[@title='User avatar']] is clickable 
+2021-12-01 19:07:42,993 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (0b1b22de2381642ec51f3bef35cd0c06)] -> xpath: //img[@title='User avatar']]' clicked successful. 
+2021-12-01 19:07:43,016 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (0b1b22de2381642ec51f3bef35cd0c06)] -> xpath: //a[@href='/logout']] 
+2021-12-01 19:07:43,101 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (0b1b22de2381642ec51f3bef35cd0c06)] -> xpath: //a[@href='/logout']] is clickable 
+2021-12-01 19:07:50,258 INFO  [Log] Element: 'Proxy element for: DefaultElementLocator 'By.xpath: //a[@href='/logout']'' clicked successful. 
+2021-12-01 19:07:50,263 INFO  [Log] ---clickCreateTest execution completed -------- 
+2021-12-01 19:07:50,268 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-01 19:07:50,299 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (7ba39542da32405298f534d0219bcab2)] -> xpath: //a[@href='/blog']] 
+2021-12-01 19:07:50,386 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (7ba39542da32405298f534d0219bcab2)] -> xpath: //a[@href='/blog']] is clickable 
+2021-12-01 19:07:52,557 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (7ba39542da32405298f534d0219bcab2)] -> xpath: //a[@href='/blog']]' clicked successful. 
+2021-12-01 19:07:52,571 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-01 19:07:52,587 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (7ba39542da32405298f534d0219bcab2)] -> xpath: //a[@href='/blog']] 
+2021-12-01 19:07:52,683 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (7ba39542da32405298f534d0219bcab2)] -> xpath: //a[@href='/blog']] is clickable 
+2021-12-01 19:07:54,813 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (7ba39542da32405298f534d0219bcab2)] -> xpath: //a[@href='/blog']]' clicked successful. 
+2021-12-01 19:07:54,820 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-01 19:07:54,842 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (7ba39542da32405298f534d0219bcab2)] -> xpath: //a[@href='/blog']] 
+2021-12-01 19:07:54,922 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (7ba39542da32405298f534d0219bcab2)] -> xpath: //a[@href='/blog']] is clickable 
+2021-12-01 19:07:57,067 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (7ba39542da32405298f534d0219bcab2)] -> xpath: //a[@href='/blog']]' clicked successful. 
+2021-12-01 19:07:57,074 INFO  [Log] ---serachCategory execution started -------- 
+2021-12-01 19:07:57,102 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (7ba39542da32405298f534d0219bcab2)] -> xpath: //button[@class='search-form-searchButton-0-2-131']] 
+2021-12-01 19:07:57,186 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (7ba39542da32405298f534d0219bcab2)] -> xpath: //button[@class='search-form-searchButton-0-2-131']] is clickable 
+2021-12-01 19:07:59,296 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (7ba39542da32405298f534d0219bcab2)] -> xpath: //button[@class='search-form-searchButton-0-2-131']]' clicked successful. 
+2021-12-01 19:07:59,316 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (7ba39542da32405298f534d0219bcab2)] -> xpath: //input[@placeholder='Search']] 
+2021-12-01 19:07:59,360 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (7ba39542da32405298f534d0219bcab2)] -> xpath: //input[@placeholder='Search']] is clickable 
+2021-12-01 19:07:59,488 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (7ba39542da32405298f534d0219bcab2)] -> xpath: //input[@placeholder='Search']]--News 
+2021-12-01 19:08:01,508 INFO  [Log] ---serachCategory execution started -------- 
+2021-12-01 19:08:01,525 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (7ba39542da32405298f534d0219bcab2)] -> xpath: //button[@class='search-form-searchButton-0-2-131']] 
+2021-12-01 19:08:01,613 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (7ba39542da32405298f534d0219bcab2)] -> xpath: //button[@class='search-form-searchButton-0-2-131']] is clickable 
+2021-12-01 19:08:05,047 INFO  [Log] Element: 'Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='search-form-searchButton-0-2-131']'' clicked successful. 
+2021-12-01 19:08:05,056 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (7ba39542da32405298f534d0219bcab2)] -> xpath: //input[@placeholder='Search']] 
+2021-12-01 19:08:58,228 INFO  [Log] Exceptionchrome not reachable
+  (Session info: chrome=96.0.4664.45)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'SHRUJIND-IN', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\shrujind\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53086}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7ba39542da32405298f534d0219bcab2
+*** Element info: {Using=xpath, value=//input[@placeholder='Search']} 
+2021-12-01 19:09:16,435 INFO  [Log] Exceptionchrome not reachable
+  (Session info: chrome=96.0.4664.45)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'SHRUJIND-IN', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\shrujind\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57018}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 53862b4d3b927502ad103291e47af378
+*** Element info: {Using=xpath, value=//img[@title='User avatar']} 
+2021-12-01 19:09:16,436 INFO  [Log] ---clickLinkTest execution completed -------- 
+2021-12-01 19:09:16,560 INFO  [Log] App urlhttps://picsart.com/blog/ 
+2021-12-01 19:09:16,560 INFO  [Log] browserNamechrome 
+2021-12-01 19:09:27,167 INFO  [Log] Base class constructor 
+2021-12-01 19:09:27,168 INFO  [Log] ----Login Page---  
+2021-12-01 19:09:27,168 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 19:09:27,228 INFO  [Log] Base class constructor 
+2021-12-01 19:09:27,229 INFO  [Log] ----Blog Page---  
+2021-12-01 19:09:27,229 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 19:09:27,255 INFO  [Log] App urlhttps://picsart.com 
+2021-12-01 19:09:27,255 INFO  [Log] browserNamechrome 
+2021-12-01 19:09:34,346 INFO  [Log] Base class constructor 
+2021-12-01 19:09:34,347 INFO  [Log] ----Login Page---  
+2021-12-01 19:09:34,347 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 19:09:34,444 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-01 19:09:34,444 INFO  [Log] Clicking Login 
+2021-12-01 19:09:34,555 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (ac53a6bfd2be11e80487cad7fe7a79f8)] -> xpath: //button[@data-mode='login']] 
+2021-12-01 19:09:34,758 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (ac53a6bfd2be11e80487cad7fe7a79f8)] -> xpath: //button[@data-mode='login']] is clickable 
+2021-12-01 19:09:36,944 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (ac53a6bfd2be11e80487cad7fe7a79f8)] -> xpath: //button[@data-mode='login']]' clicked successful. 
+2021-12-01 19:09:36,977 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (ac53a6bfd2be11e80487cad7fe7a79f8)] -> name: username] 
+2021-12-01 19:09:37,155 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (ac53a6bfd2be11e80487cad7fe7a79f8)] -> name: username] is clickable 
+2021-12-01 19:09:38,065 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (ac53a6bfd2be11e80487cad7fe7a79f8)] -> name: username]--shruti18saggi@gmail.com 
+2021-12-01 19:09:40,116 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (ac53a6bfd2be11e80487cad7fe7a79f8)] -> name: password] 
+2021-12-01 19:09:40,199 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (ac53a6bfd2be11e80487cad7fe7a79f8)] -> name: password] is clickable 
+2021-12-01 19:09:40,529 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (ac53a6bfd2be11e80487cad7fe7a79f8)] -> name: password]--test@123 
+2021-12-01 19:09:42,572 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (ac53a6bfd2be11e80487cad7fe7a79f8)] -> xpath: //button[@type='submit']] 
+2021-12-01 19:09:42,644 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (ac53a6bfd2be11e80487cad7fe7a79f8)] -> xpath: //button[@type='submit']] is clickable 
+2021-12-01 19:09:46,691 INFO  [Log] Element: 'Proxy element for: DefaultElementLocator 'By.xpath: //button[@type='submit']'' clicked successful. 
+2021-12-01 19:09:46,693 INFO  [Log] Base class constructor 
+2021-12-01 19:09:46,713 INFO  [Log] Logging Out 
+2021-12-01 19:09:46,810 INFO  [Log] Searching for elementProxy element for: DefaultElementLocator 'By.xpath: //img[@title='User avatar']' 
+2021-12-01 19:09:49,216 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (ac53a6bfd2be11e80487cad7fe7a79f8)] -> xpath: //img[@title='User avatar']] is clickable 
+2021-12-01 19:09:51,378 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (ac53a6bfd2be11e80487cad7fe7a79f8)] -> xpath: //img[@title='User avatar']]' clicked successful. 
+2021-12-01 19:09:51,397 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (ac53a6bfd2be11e80487cad7fe7a79f8)] -> xpath: //a[@href='/logout']] 
+2021-12-01 19:09:51,473 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (ac53a6bfd2be11e80487cad7fe7a79f8)] -> xpath: //a[@href='/logout']] is clickable 
+2021-12-01 19:09:57,284 INFO  [Log] Element: 'Proxy element for: DefaultElementLocator 'By.xpath: //a[@href='/logout']'' clicked successful. 
+2021-12-01 19:09:57,289 INFO  [Log] ---clickCreateTest execution completed -------- 
+2021-12-01 19:09:57,294 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-01 19:09:57,328 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (adcc25259a76d3863708979989e72605)] -> xpath: //a[@href='/blog']] 
+2021-12-01 19:09:57,410 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (adcc25259a76d3863708979989e72605)] -> xpath: //a[@href='/blog']] is clickable 
+2021-12-01 19:09:59,615 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (adcc25259a76d3863708979989e72605)] -> xpath: //a[@href='/blog']]' clicked successful. 
+2021-12-01 19:09:59,631 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-01 19:09:59,645 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (adcc25259a76d3863708979989e72605)] -> xpath: //a[@href='/blog']] 
+2021-12-01 19:09:59,727 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (adcc25259a76d3863708979989e72605)] -> xpath: //a[@href='/blog']] is clickable 
+2021-12-01 19:10:01,898 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (adcc25259a76d3863708979989e72605)] -> xpath: //a[@href='/blog']]' clicked successful. 
+2021-12-01 19:10:01,906 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-01 19:10:01,929 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (adcc25259a76d3863708979989e72605)] -> xpath: //a[@href='/blog']] 
+2021-12-01 19:10:02,009 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (adcc25259a76d3863708979989e72605)] -> xpath: //a[@href='/blog']] is clickable 
+2021-12-01 19:10:04,743 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (adcc25259a76d3863708979989e72605)] -> xpath: //a[@href='/blog']]' clicked successful. 
+2021-12-01 19:10:04,749 INFO  [Log] ---serachCategory execution started -------- 
+2021-12-01 19:10:04,777 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (adcc25259a76d3863708979989e72605)] -> xpath: //button[@class='search-form-searchButton-0-2-131']] 
+2021-12-01 19:10:04,877 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (adcc25259a76d3863708979989e72605)] -> xpath: //button[@class='search-form-searchButton-0-2-131']] is clickable 
+2021-12-01 19:10:06,980 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (adcc25259a76d3863708979989e72605)] -> xpath: //button[@class='search-form-searchButton-0-2-131']]' clicked successful. 
+2021-12-01 19:10:07,004 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (adcc25259a76d3863708979989e72605)] -> xpath: //input[@placeholder='Search']] 
+2021-12-01 19:10:07,060 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (adcc25259a76d3863708979989e72605)] -> xpath: //input[@placeholder='Search']] is clickable 
+2021-12-01 19:10:07,186 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (adcc25259a76d3863708979989e72605)] -> xpath: //input[@placeholder='Search']]--News 
+2021-12-01 19:10:09,205 INFO  [Log] ---serachCategory execution started -------- 
+2021-12-01 19:10:09,220 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (adcc25259a76d3863708979989e72605)] -> xpath: //button[@class='search-form-searchButton-0-2-131']] 
+2021-12-01 19:10:09,297 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (adcc25259a76d3863708979989e72605)] -> xpath: //button[@class='search-form-searchButton-0-2-131']] is clickable 
+2021-12-01 19:10:12,601 INFO  [Log] Element: 'Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='search-form-searchButton-0-2-131']'' clicked successful. 
+2021-12-01 19:10:12,610 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (adcc25259a76d3863708979989e72605)] -> xpath: //input[@placeholder='Search']] 
+2021-12-01 19:10:34,144 INFO  [Log] Exceptionchrome not reachable
+  (Session info: chrome=96.0.4664.45)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'SHRUJIND-IN', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\shrujind\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60526}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: adcc25259a76d3863708979989e72605
+*** Element info: {Using=xpath, value=//input[@placeholder='Search']} 
+2021-12-01 19:10:50,202 INFO  [Log] App urlhttps://picsart.com/blog/ 
+2021-12-01 19:10:50,203 INFO  [Log] browserNamechrome 
+2021-12-01 19:10:58,005 INFO  [Log] Base class constructor 
+2021-12-01 19:10:58,006 INFO  [Log] ----Login Page---  
+2021-12-01 19:10:58,006 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 19:10:58,061 INFO  [Log] Base class constructor 
+2021-12-01 19:10:58,066 INFO  [Log] ----Blog Page---  
+2021-12-01 19:10:58,067 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 19:10:58,085 INFO  [Log] App urlhttps://picsart.com 
+2021-12-01 19:10:58,085 INFO  [Log] browserNamechrome 
+2021-12-01 19:11:05,454 INFO  [Log] Base class constructor 
+2021-12-01 19:11:05,455 INFO  [Log] ----Login Page---  
+2021-12-01 19:11:05,456 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 19:11:05,505 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-01 19:11:05,505 INFO  [Log] Clicking Login 
+2021-12-01 19:11:05,552 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (95e8d1ef284f79ffbf7f90fc080bfdc6)] -> xpath: //button[@data-mode='login']] 
+2021-12-01 19:11:05,766 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (95e8d1ef284f79ffbf7f90fc080bfdc6)] -> xpath: //button[@data-mode='login']] is clickable 
+2021-12-01 19:11:07,943 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (95e8d1ef284f79ffbf7f90fc080bfdc6)] -> xpath: //button[@data-mode='login']]' clicked successful. 
+2021-12-01 19:11:07,973 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (95e8d1ef284f79ffbf7f90fc080bfdc6)] -> name: username] 
+2021-12-01 19:11:08,140 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (95e8d1ef284f79ffbf7f90fc080bfdc6)] -> name: username] is clickable 
+2021-12-01 19:11:09,059 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (95e8d1ef284f79ffbf7f90fc080bfdc6)] -> name: username]--shruti18saggi@gmail.com 
+2021-12-01 19:11:11,133 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (95e8d1ef284f79ffbf7f90fc080bfdc6)] -> name: password] 
+2021-12-01 19:11:11,222 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (95e8d1ef284f79ffbf7f90fc080bfdc6)] -> name: password] is clickable 
+2021-12-01 19:11:11,458 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (95e8d1ef284f79ffbf7f90fc080bfdc6)] -> name: password]--test@123 
+2021-12-01 19:11:13,501 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (95e8d1ef284f79ffbf7f90fc080bfdc6)] -> xpath: //button[@type='submit']] 
+2021-12-01 19:11:13,575 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (95e8d1ef284f79ffbf7f90fc080bfdc6)] -> xpath: //button[@type='submit']] is clickable 
+2021-12-01 19:11:18,119 INFO  [Log] Element: 'Proxy element for: DefaultElementLocator 'By.xpath: //button[@type='submit']'' clicked successful. 
+2021-12-01 19:11:18,121 INFO  [Log] Base class constructor 
+2021-12-01 19:11:18,151 INFO  [Log] Logging Out 
+2021-12-01 19:11:18,310 INFO  [Log] Searching for elementProxy element for: DefaultElementLocator 'By.xpath: //img[@title='User avatar']' 
+2021-12-01 19:11:19,204 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (95e8d1ef284f79ffbf7f90fc080bfdc6)] -> xpath: //img[@title='User avatar']] is clickable 
+2021-12-01 19:11:21,357 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (95e8d1ef284f79ffbf7f90fc080bfdc6)] -> xpath: //img[@title='User avatar']]' clicked successful. 
+2021-12-01 19:11:21,379 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (95e8d1ef284f79ffbf7f90fc080bfdc6)] -> xpath: //a[@href='/logout']] 
+2021-12-01 19:11:21,462 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (95e8d1ef284f79ffbf7f90fc080bfdc6)] -> xpath: //a[@href='/logout']] is clickable 
+2021-12-01 19:11:28,059 INFO  [Log] Element: 'Proxy element for: DefaultElementLocator 'By.xpath: //a[@href='/logout']'' clicked successful. 
+2021-12-01 19:11:28,063 INFO  [Log] ---clickCreateTest execution completed -------- 
+2021-12-01 19:11:28,068 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-01 19:11:28,099 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (26d03d4d5a0acb76cb16d9c0fc34c97b)] -> xpath: //a[@href='/blog']] 
+2021-12-01 19:11:28,186 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (26d03d4d5a0acb76cb16d9c0fc34c97b)] -> xpath: //a[@href='/blog']] is clickable 
+2021-12-01 19:11:30,400 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (26d03d4d5a0acb76cb16d9c0fc34c97b)] -> xpath: //a[@href='/blog']]' clicked successful. 
+2021-12-01 19:11:30,413 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-01 19:11:30,429 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (26d03d4d5a0acb76cb16d9c0fc34c97b)] -> xpath: //a[@href='/blog']] 
+2021-12-01 19:11:30,509 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (26d03d4d5a0acb76cb16d9c0fc34c97b)] -> xpath: //a[@href='/blog']] is clickable 
+2021-12-01 19:11:32,675 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (26d03d4d5a0acb76cb16d9c0fc34c97b)] -> xpath: //a[@href='/blog']]' clicked successful. 
+2021-12-01 19:11:32,685 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-01 19:11:32,706 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (26d03d4d5a0acb76cb16d9c0fc34c97b)] -> xpath: //a[@href='/blog']] 
+2021-12-01 19:11:32,784 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (26d03d4d5a0acb76cb16d9c0fc34c97b)] -> xpath: //a[@href='/blog']] is clickable 
+2021-12-01 19:11:34,929 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (26d03d4d5a0acb76cb16d9c0fc34c97b)] -> xpath: //a[@href='/blog']]' clicked successful. 
+2021-12-01 19:11:34,940 INFO  [Log] ---serachCategory execution started -------- 
+2021-12-01 19:11:34,967 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (26d03d4d5a0acb76cb16d9c0fc34c97b)] -> xpath: //button[@class='search-form-searchButton-0-2-131']] 
+2021-12-01 19:11:35,055 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (26d03d4d5a0acb76cb16d9c0fc34c97b)] -> xpath: //button[@class='search-form-searchButton-0-2-131']] is clickable 
+2021-12-01 19:11:37,164 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (26d03d4d5a0acb76cb16d9c0fc34c97b)] -> xpath: //button[@class='search-form-searchButton-0-2-131']]' clicked successful. 
+2021-12-01 19:11:37,184 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (26d03d4d5a0acb76cb16d9c0fc34c97b)] -> xpath: //input[@placeholder='Search']] 
+2021-12-01 19:11:37,226 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (26d03d4d5a0acb76cb16d9c0fc34c97b)] -> xpath: //input[@placeholder='Search']] is clickable 
+2021-12-01 19:11:37,388 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (26d03d4d5a0acb76cb16d9c0fc34c97b)] -> xpath: //input[@placeholder='Search']]--News 
+2021-12-01 19:11:39,405 INFO  [Log] ---serachCategory execution started -------- 
+2021-12-01 19:11:39,421 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (26d03d4d5a0acb76cb16d9c0fc34c97b)] -> xpath: //button[@class='search-form-searchButton-0-2-131']] 
+2021-12-01 19:11:39,516 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (26d03d4d5a0acb76cb16d9c0fc34c97b)] -> xpath: //button[@class='search-form-searchButton-0-2-131']] is clickable 
+2021-12-01 19:11:43,014 INFO  [Log] Element: 'Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='search-form-searchButton-0-2-131']'' clicked successful. 
+2021-12-01 19:11:43,038 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (26d03d4d5a0acb76cb16d9c0fc34c97b)] -> xpath: //input[@placeholder='Search']] 
+2021-12-01 19:14:44,102 INFO  [Log] Exceptionchrome not reachable
+  (Session info: chrome=96.0.4664.45)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'SHRUJIND-IN', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\shrujind\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60751}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 26d03d4d5a0acb76cb16d9c0fc34c97b
+*** Element info: {Using=xpath, value=//input[@placeholder='Search']} 
+2021-12-01 19:16:20,048 INFO  [Log] App urlhttps://picsart.com/blog/ 
+2021-12-01 19:16:20,049 INFO  [Log] browserNamechrome 
+2021-12-01 19:16:27,755 INFO  [Log] Base class constructor 
+2021-12-01 19:16:27,756 INFO  [Log] ----Login Page---  
+2021-12-01 19:16:27,756 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 19:16:27,809 INFO  [Log] Base class constructor 
+2021-12-01 19:16:27,811 INFO  [Log] ----Blog Page---  
+2021-12-01 19:16:27,811 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 19:16:27,826 INFO  [Log] App urlhttps://picsart.com 
+2021-12-01 19:16:27,826 INFO  [Log] browserNamechrome 
+2021-12-01 19:16:34,586 INFO  [Log] Base class constructor 
+2021-12-01 19:16:34,587 INFO  [Log] ----Login Page---  
+2021-12-01 19:16:34,587 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 19:16:34,647 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-01 19:16:34,649 INFO  [Log] Clicking Login 
+2021-12-01 19:16:34,657 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-01 19:16:34,726 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (1eb255101ff6a4a7aa3a72a749d00b56)] -> xpath: //button[@data-mode='login']] 
+2021-12-01 19:16:34,729 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (fb82c349345388aa02fab42b08dcb44a)] -> xpath: //a[@href='/blog']] 
+2021-12-01 19:16:34,975 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (fb82c349345388aa02fab42b08dcb44a)] -> xpath: //a[@href='/blog']] is clickable 
+2021-12-01 19:16:34,975 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (1eb255101ff6a4a7aa3a72a749d00b56)] -> xpath: //button[@data-mode='login']] is clickable 
+2021-12-01 19:16:37,224 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (1eb255101ff6a4a7aa3a72a749d00b56)] -> xpath: //button[@data-mode='login']]' clicked successful. 
+2021-12-01 19:16:37,247 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (fb82c349345388aa02fab42b08dcb44a)] -> xpath: //a[@href='/blog']]' clicked successful. 
+2021-12-01 19:16:37,253 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (1eb255101ff6a4a7aa3a72a749d00b56)] -> name: username] 
+2021-12-01 19:16:37,274 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-01 19:16:37,316 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (fb82c349345388aa02fab42b08dcb44a)] -> xpath: //a[@href='/blog']] 
+2021-12-01 19:16:37,459 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (1eb255101ff6a4a7aa3a72a749d00b56)] -> name: username] is clickable 
+2021-12-01 19:16:37,499 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (fb82c349345388aa02fab42b08dcb44a)] -> xpath: //a[@href='/blog']] is clickable 
+2021-12-01 19:16:38,446 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (1eb255101ff6a4a7aa3a72a749d00b56)] -> name: username]--shruti18saggi@gmail.com 
+2021-12-01 19:16:39,783 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (fb82c349345388aa02fab42b08dcb44a)] -> xpath: //a[@href='/blog']]' clicked successful. 
+2021-12-01 19:16:39,794 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-01 19:16:39,811 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (fb82c349345388aa02fab42b08dcb44a)] -> xpath: //a[@href='/blog']] 
+2021-12-01 19:16:39,890 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (fb82c349345388aa02fab42b08dcb44a)] -> xpath: //a[@href='/blog']] is clickable 
+2021-12-01 19:16:40,485 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (1eb255101ff6a4a7aa3a72a749d00b56)] -> name: password] 
+2021-12-01 19:16:40,547 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (1eb255101ff6a4a7aa3a72a749d00b56)] -> name: password] is clickable 
+2021-12-01 19:16:40,706 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (1eb255101ff6a4a7aa3a72a749d00b56)] -> name: password]--test@123 
+2021-12-01 19:16:42,037 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (fb82c349345388aa02fab42b08dcb44a)] -> xpath: //a[@href='/blog']]' clicked successful. 
+2021-12-01 19:16:42,047 INFO  [Log] ---Search Category execution started -------- 
+2021-12-01 19:16:42,071 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (fb82c349345388aa02fab42b08dcb44a)] -> xpath: //button[@class='search-form-searchButton-0-2-131']] 
+2021-12-01 19:16:42,146 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (fb82c349345388aa02fab42b08dcb44a)] -> xpath: //button[@class='search-form-searchButton-0-2-131']] is clickable 
+2021-12-01 19:16:42,741 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (1eb255101ff6a4a7aa3a72a749d00b56)] -> xpath: //button[@type='submit']] 
+2021-12-01 19:16:42,832 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (1eb255101ff6a4a7aa3a72a749d00b56)] -> xpath: //button[@type='submit']] is clickable 
+2021-12-01 19:16:44,247 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (fb82c349345388aa02fab42b08dcb44a)] -> xpath: //button[@class='search-form-searchButton-0-2-131']]' clicked successful. 
+2021-12-01 19:16:44,267 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (fb82c349345388aa02fab42b08dcb44a)] -> xpath: //input[@placeholder='Search']] 
+2021-12-01 19:16:44,352 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (fb82c349345388aa02fab42b08dcb44a)] -> xpath: //input[@placeholder='Search']] is clickable 
+2021-12-01 19:16:44,556 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (fb82c349345388aa02fab42b08dcb44a)] -> xpath: //input[@placeholder='Search']]--News 
+2021-12-01 19:16:47,383 INFO  [Log] ---Search Category execution started -------- 
+2021-12-01 19:16:47,441 INFO  [Log] Element: 'Proxy element for: DefaultElementLocator 'By.xpath: //button[@type='submit']'' clicked successful. 
+2021-12-01 19:16:47,444 INFO  [Log] Base class constructor 
+2021-12-01 19:16:47,459 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (fb82c349345388aa02fab42b08dcb44a)] -> xpath: //button[@class='search-form-searchButton-0-2-131']] 
+2021-12-01 19:16:47,461 INFO  [Log] Logging Out 
+2021-12-01 19:16:47,498 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (1eb255101ff6a4a7aa3a72a749d00b56)] -> xpath: //img[@title='User avatar']] 
+2021-12-01 19:16:47,606 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (fb82c349345388aa02fab42b08dcb44a)] -> xpath: //button[@class='search-form-searchButton-0-2-131']] is clickable 
+2021-12-01 19:16:47,700 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (1eb255101ff6a4a7aa3a72a749d00b56)] -> xpath: //img[@title='User avatar']] is clickable 
+2021-12-01 19:16:50,053 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (1eb255101ff6a4a7aa3a72a749d00b56)] -> xpath: //img[@title='User avatar']]' clicked successful. 
+2021-12-01 19:16:50,155 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (1eb255101ff6a4a7aa3a72a749d00b56)] -> xpath: //a[@href='/logout']] 
+2021-12-01 19:16:50,622 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (1eb255101ff6a4a7aa3a72a749d00b56)] -> xpath: //a[@href='/logout']] is clickable 
+2021-12-01 19:16:51,150 INFO  [Log] Element: 'Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='search-form-searchButton-0-2-131']'' clicked successful. 
+2021-12-01 19:16:51,174 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (fb82c349345388aa02fab42b08dcb44a)] -> xpath: //input[@placeholder='Search']] 
+2021-12-01 19:16:54,769 INFO  [Log] Element: 'Proxy element for: DefaultElementLocator 'By.xpath: //a[@href='/logout']'' clicked successful. 
+2021-12-01 19:16:54,775 INFO  [Log] ---clickCreateTest execution completed -------- 
+2021-12-01 19:18:06,071 INFO  [Log] App urlhttps://picsart.com/blog/ 
+2021-12-01 19:18:06,071 INFO  [Log] browserNamechrome 
+2021-12-01 19:18:10,748 INFO  [Log] Exceptionchrome not reachable
+  (Session info: chrome=96.0.4664.45)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'SHRUJIND-IN', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\shrujind\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60319}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fb82c349345388aa02fab42b08dcb44a
+*** Element info: {Using=xpath, value=//input[@placeholder='Search']} 
+2021-12-01 19:18:14,063 INFO  [Log] Base class constructor 
+2021-12-01 19:18:14,064 INFO  [Log] ----Login Page---  
+2021-12-01 19:18:14,064 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 19:18:14,131 INFO  [Log] Base class constructor 
+2021-12-01 19:18:14,132 INFO  [Log] ----Blog Page---  
+2021-12-01 19:18:14,132 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 19:18:14,148 INFO  [Log] App urlhttps://picsart.com 
+2021-12-01 19:18:14,148 INFO  [Log] browserNamechrome 
+2021-12-01 19:18:23,303 INFO  [Log] Base class constructor 
+2021-12-01 19:18:23,305 INFO  [Log] ----Login Page---  
+2021-12-01 19:18:23,305 INFO  [Log] Intitallizing the Page Factory  
+2021-12-01 19:18:23,400 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-01 19:18:23,401 INFO  [Log] Clicking Login 
+2021-12-01 19:18:23,405 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-01 19:18:23,488 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (88b18618a5ba03dc3aeac07241bfd0fb)] -> xpath: //button[@data-mode='login']] 
+2021-12-01 19:18:23,488 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (4173e8e4899eb760601ab237db9c1af8)] -> xpath: //a[@href='/blog']] 
+2021-12-01 19:18:23,700 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (88b18618a5ba03dc3aeac07241bfd0fb)] -> xpath: //button[@data-mode='login']] is clickable 
+2021-12-01 19:18:23,700 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (4173e8e4899eb760601ab237db9c1af8)] -> xpath: //a[@href='/blog']] is clickable 
+2021-12-01 19:18:25,923 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (88b18618a5ba03dc3aeac07241bfd0fb)] -> xpath: //button[@data-mode='login']]' clicked successful. 
+2021-12-01 19:18:25,955 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (4173e8e4899eb760601ab237db9c1af8)] -> xpath: //a[@href='/blog']]' clicked successful. 
+2021-12-01 19:18:25,984 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (88b18618a5ba03dc3aeac07241bfd0fb)] -> name: username] 
+2021-12-01 19:18:26,005 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-01 19:18:26,022 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (4173e8e4899eb760601ab237db9c1af8)] -> xpath: //a[@href='/blog']] 
+2021-12-01 19:18:26,096 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (88b18618a5ba03dc3aeac07241bfd0fb)] -> name: username] is clickable 
+2021-12-01 19:18:26,177 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (4173e8e4899eb760601ab237db9c1af8)] -> xpath: //a[@href='/blog']] is clickable 
+2021-12-01 19:18:27,056 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (88b18618a5ba03dc3aeac07241bfd0fb)] -> name: username]--shruti18saggi@gmail.com 
+2021-12-01 19:18:28,599 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (4173e8e4899eb760601ab237db9c1af8)] -> xpath: //a[@href='/blog']]' clicked successful. 
+2021-12-01 19:18:28,675 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-01 19:18:28,710 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (4173e8e4899eb760601ab237db9c1af8)] -> xpath: //a[@href='/blog']] 
+2021-12-01 19:18:28,870 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (4173e8e4899eb760601ab237db9c1af8)] -> xpath: //a[@href='/blog']] is clickable 
+2021-12-01 19:18:29,128 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (88b18618a5ba03dc3aeac07241bfd0fb)] -> name: password] 
+2021-12-01 19:18:29,231 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (88b18618a5ba03dc3aeac07241bfd0fb)] -> name: password] is clickable 
+2021-12-01 19:18:29,595 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (88b18618a5ba03dc3aeac07241bfd0fb)] -> name: password]--test@123 
+2021-12-01 19:18:31,123 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (4173e8e4899eb760601ab237db9c1af8)] -> xpath: //a[@href='/blog']]' clicked successful. 
+2021-12-01 19:18:31,133 INFO  [Log] ---Search Category execution started -------- 
+2021-12-01 19:18:31,163 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (4173e8e4899eb760601ab237db9c1af8)] -> xpath: //button[@class='search-form-searchButton-0-2-131']] 
+2021-12-01 19:18:31,280 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (4173e8e4899eb760601ab237db9c1af8)] -> xpath: //button[@class='search-form-searchButton-0-2-131']] is clickable 
+2021-12-01 19:18:31,646 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (88b18618a5ba03dc3aeac07241bfd0fb)] -> xpath: //button[@type='submit']] 
+2021-12-01 19:18:31,783 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (88b18618a5ba03dc3aeac07241bfd0fb)] -> xpath: //button[@type='submit']] is clickable 
+2021-12-01 19:18:33,391 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (4173e8e4899eb760601ab237db9c1af8)] -> xpath: //button[@class='search-form-searchButton-0-2-131']]' clicked successful. 
+2021-12-01 19:18:33,414 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (4173e8e4899eb760601ab237db9c1af8)] -> xpath: //input[@placeholder='Search']] 
+2021-12-01 19:18:33,504 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (4173e8e4899eb760601ab237db9c1af8)] -> xpath: //input[@placeholder='Search']] is clickable 
+2021-12-01 19:18:33,797 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (4173e8e4899eb760601ab237db9c1af8)] -> xpath: //input[@placeholder='Search']]--News 
+2021-12-01 19:18:36,885 INFO  [Log] ---Search Category execution started -------- 
+2021-12-01 19:18:36,915 INFO  [Log] Element: 'Proxy element for: DefaultElementLocator 'By.xpath: //button[@type='submit']'' clicked successful. 
+2021-12-01 19:18:36,919 INFO  [Log] Base class constructor 
+2021-12-01 19:18:36,929 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (4173e8e4899eb760601ab237db9c1af8)] -> xpath: //button[@class='search-form-searchButton-0-2-131']] 
+2021-12-01 19:18:36,940 INFO  [Log] Logging Out 
+2021-12-01 19:18:36,993 INFO  [Log] Searching for elementProxy element for: DefaultElementLocator 'By.xpath: //img[@title='User avatar']' 
+2021-12-01 19:18:37,097 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (4173e8e4899eb760601ab237db9c1af8)] -> xpath: //button[@class='search-form-searchButton-0-2-131']] is clickable 
+2021-12-01 19:18:37,359 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (88b18618a5ba03dc3aeac07241bfd0fb)] -> xpath: //img[@title='User avatar']] is clickable 
+2021-12-01 19:18:39,631 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (88b18618a5ba03dc3aeac07241bfd0fb)] -> xpath: //img[@title='User avatar']]' clicked successful. 
+2021-12-01 19:18:39,694 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (88b18618a5ba03dc3aeac07241bfd0fb)] -> xpath: //a[@href='/logout']] 
+2021-12-01 19:18:39,920 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (88b18618a5ba03dc3aeac07241bfd0fb)] -> xpath: //a[@href='/logout']] is clickable 
+2021-12-01 19:18:40,610 INFO  [Log] Element: 'Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='search-form-searchButton-0-2-131']'' clicked successful. 
+2021-12-01 19:18:40,690 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (4173e8e4899eb760601ab237db9c1af8)] -> xpath: //input[@placeholder='Search']] 
+2021-12-01 19:18:44,683 INFO  [Log] Exceptionno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=96.0.4664.45)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'SHRUJIND-IN', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\shrujind\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60567}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 88b18618a5ba03dc3aeac07241bfd0fb
+*** Element info: {Using=xpath, value=//a[@href='/logout']} 
+2021-12-01 19:18:44,688 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-01 19:18:44,688 INFO  [Log] Clicking Login 
+2021-12-01 19:18:44,713 INFO  [Log] Exceptionno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=96.0.4664.45)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'SHRUJIND-IN', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\shrujind\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60567}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 88b18618a5ba03dc3aeac07241bfd0fb
+*** Element info: {Using=xpath, value=//button[@data-mode='login']} 
+2021-12-01 19:18:44,714 INFO  [Log] Base class constructor 
+2021-12-01 19:18:44,718 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-01 19:18:44,718 INFO  [Log] Clicking Login 
+2021-12-01 19:18:44,745 INFO  [Log] Exceptionno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=96.0.4664.45)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'SHRUJIND-IN', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\shrujind\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60567}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 88b18618a5ba03dc3aeac07241bfd0fb
+*** Element info: {Using=xpath, value=//button[@data-mode='login']} 
+2021-12-01 19:18:44,745 INFO  [Log] Base class constructor 
+2021-12-01 19:18:44,795 INFO  [Log] Exceptionnull 
+2021-12-02 17:40:47,424 INFO  [Log] App urlhttps://picsart.com/blog/ 
+2021-12-02 17:40:47,425 INFO  [Log] browserNamechrome 
+2021-12-02 17:40:56,205 INFO  [Log] Base class constructor 
+2021-12-02 17:40:56,206 INFO  [Log] ----Login Page---  
+2021-12-02 17:40:56,206 INFO  [Log] Intitallizing the Page Factory  
+2021-12-02 17:40:56,242 INFO  [Log] Base class constructor 
+2021-12-02 17:40:56,243 INFO  [Log] ----Blog Page---  
+2021-12-02 17:40:56,243 INFO  [Log] Intitallizing the Page Factory  
+2021-12-02 17:40:56,257 INFO  [Log] App urlhttps://picsart.com 
+2021-12-02 17:40:56,257 INFO  [Log] browserNamechrome 
+2021-12-02 17:41:02,725 INFO  [Log] Base class constructor 
+2021-12-02 17:41:02,727 INFO  [Log] ----Login Page---  
+2021-12-02 17:41:02,727 INFO  [Log] Intitallizing the Page Factory  
+2021-12-02 17:41:08,311 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-02 17:41:08,360 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (76c0ddee8c1acbdc897109460a0cd63e)] -> xpath: //a[@href='/blog']] 
+2021-12-02 17:41:08,543 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (76c0ddee8c1acbdc897109460a0cd63e)] -> xpath: //a[@href='/blog']] is clickable 
+2021-12-02 17:41:10,837 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (76c0ddee8c1acbdc897109460a0cd63e)] -> xpath: //a[@href='/blog']]' clicked successful. 
+2021-12-02 17:41:10,851 INFO  [Log] ---Search Category execution started -------- 
+2021-12-02 17:41:10,874 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (76c0ddee8c1acbdc897109460a0cd63e)] -> xpath: //button[@class='search-form-searchButton-0-2-131']] 
+2021-12-02 17:41:10,965 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (76c0ddee8c1acbdc897109460a0cd63e)] -> xpath: //button[@class='search-form-searchButton-0-2-131']] is clickable 
+2021-12-02 17:41:13,050 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (76c0ddee8c1acbdc897109460a0cd63e)] -> xpath: //button[@class='search-form-searchButton-0-2-131']]' clicked successful. 
+2021-12-02 17:41:13,069 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (76c0ddee8c1acbdc897109460a0cd63e)] -> xpath: //input[@placeholder='Search']] 
+2021-12-02 17:41:13,113 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (76c0ddee8c1acbdc897109460a0cd63e)] -> xpath: //input[@placeholder='Search']] is clickable 
+2021-12-02 17:41:13,255 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (76c0ddee8c1acbdc897109460a0cd63e)] -> xpath: //input[@placeholder='Search']]--News 
+2021-12-02 17:41:15,272 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-02 17:41:15,272 INFO  [Log] Clicking Login 
+2021-12-02 17:41:15,293 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (65b20447c7aa81683220da257010ea36)] -> xpath: //button[@data-mode='login']] 
+2021-12-02 17:41:15,385 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (65b20447c7aa81683220da257010ea36)] -> xpath: //button[@data-mode='login']] is clickable 
+2021-12-02 17:41:17,642 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (65b20447c7aa81683220da257010ea36)] -> xpath: //button[@data-mode='login']]' clicked successful. 
+2021-12-02 17:41:17,672 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (65b20447c7aa81683220da257010ea36)] -> name: username] 
+2021-12-02 17:41:17,747 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (65b20447c7aa81683220da257010ea36)] -> name: username] is clickable 
+2021-12-02 17:41:17,974 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (65b20447c7aa81683220da257010ea36)] -> name: username]--shruti18saggi@gmail.com 
+2021-12-02 17:41:20,014 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (65b20447c7aa81683220da257010ea36)] -> name: password] 
+2021-12-02 17:41:20,073 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (65b20447c7aa81683220da257010ea36)] -> name: password] is clickable 
+2021-12-02 17:41:20,233 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (65b20447c7aa81683220da257010ea36)] -> name: password]--test@123 
+2021-12-02 17:41:22,269 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (65b20447c7aa81683220da257010ea36)] -> xpath: //button[@type='submit']] 
+2021-12-02 17:41:22,369 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (65b20447c7aa81683220da257010ea36)] -> xpath: //button[@type='submit']] is clickable 
+2021-12-02 17:41:25,423 INFO  [Log] Element: 'Proxy element for: DefaultElementLocator 'By.xpath: //button[@type='submit']'' clicked successful. 
+2021-12-02 17:41:25,424 INFO  [Log] Base class constructor 
+2021-12-02 17:41:25,433 INFO  [Log] Logging Out 
+2021-12-02 17:41:25,460 INFO  [Log] Searching for elementProxy element for: DefaultElementLocator 'By.xpath: //img[@title='User avatar']' 
+2021-12-02 17:41:26,235 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (65b20447c7aa81683220da257010ea36)] -> xpath: //img[@title='User avatar']] is clickable 
+2021-12-02 17:41:28,354 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (65b20447c7aa81683220da257010ea36)] -> xpath: //img[@title='User avatar']]' clicked successful. 
+2021-12-02 17:41:28,374 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (65b20447c7aa81683220da257010ea36)] -> xpath: //a[@href='/logout']] 
+2021-12-02 17:41:28,483 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (65b20447c7aa81683220da257010ea36)] -> xpath: //a[@href='/logout']] is clickable 
+2021-12-02 17:41:33,898 INFO  [Log] Element: 'Proxy element for: DefaultElementLocator 'By.xpath: //a[@href='/logout']'' clicked successful. 
+2021-12-02 17:41:33,908 INFO  [Log] ---clickCreateTest execution completed -------- 
+2021-12-02 17:45:49,470 INFO  [Log] App urlhttps://picsart.com/blog/ 
+2021-12-02 17:45:49,470 INFO  [Log] browserNamechrome 
+2021-12-02 17:45:56,947 INFO  [Log] Base class constructor 
+2021-12-02 17:45:56,948 INFO  [Log] ----Login Page---  
+2021-12-02 17:45:56,948 INFO  [Log] Intitallizing the Page Factory  
+2021-12-02 17:45:56,995 INFO  [Log] Base class constructor 
+2021-12-02 17:45:56,996 INFO  [Log] ----Blog Page---  
+2021-12-02 17:45:56,996 INFO  [Log] Intitallizing the Page Factory  
+2021-12-02 17:45:57,016 INFO  [Log] App urlhttps://picsart.com 
+2021-12-02 17:45:57,016 INFO  [Log] browserNamechrome 
+2021-12-02 17:46:03,145 INFO  [Log] Base class constructor 
+2021-12-02 17:46:03,147 INFO  [Log] ----Login Page---  
+2021-12-02 17:46:03,147 INFO  [Log] Intitallizing the Page Factory  
+2021-12-02 17:46:03,277 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-02 17:46:03,277 INFO  [Log] Clicking Login 
+2021-12-02 17:46:03,386 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (fc49fdc6d71794d2a9cb985e6e2ac6c8)] -> xpath: //button[@data-mode='login']] 
+2021-12-02 17:46:03,606 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (fc49fdc6d71794d2a9cb985e6e2ac6c8)] -> xpath: //button[@data-mode='login']] is clickable 
+2021-12-02 17:46:05,831 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (fc49fdc6d71794d2a9cb985e6e2ac6c8)] -> xpath: //button[@data-mode='login']]' clicked successful. 
+2021-12-02 17:46:05,859 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (fc49fdc6d71794d2a9cb985e6e2ac6c8)] -> name: username] 
+2021-12-02 17:46:06,116 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (fc49fdc6d71794d2a9cb985e6e2ac6c8)] -> name: username] is clickable 
+2021-12-02 17:46:06,688 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (fc49fdc6d71794d2a9cb985e6e2ac6c8)] -> name: username]--shruti18saggi@gmail.com 
+2021-12-02 17:46:08,731 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (fc49fdc6d71794d2a9cb985e6e2ac6c8)] -> name: password] 
+2021-12-02 17:46:08,783 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (fc49fdc6d71794d2a9cb985e6e2ac6c8)] -> name: password] is clickable 
+2021-12-02 17:46:08,957 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (fc49fdc6d71794d2a9cb985e6e2ac6c8)] -> name: password]--test@123 
+2021-12-02 17:46:10,988 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (fc49fdc6d71794d2a9cb985e6e2ac6c8)] -> xpath: //button[@type='submit']] 
+2021-12-02 17:46:11,110 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (fc49fdc6d71794d2a9cb985e6e2ac6c8)] -> xpath: //button[@type='submit']] is clickable 
+2021-12-02 17:46:14,650 INFO  [Log] Element: 'Proxy element for: DefaultElementLocator 'By.xpath: //button[@type='submit']'' clicked successful. 
+2021-12-02 17:46:14,651 INFO  [Log] Base class constructor 
+2021-12-02 17:46:14,661 INFO  [Log] Logging Out 
+2021-12-02 17:46:14,686 INFO  [Log] Searching for elementProxy element for: DefaultElementLocator 'By.xpath: //img[@title='User avatar']' 
+2021-12-02 17:46:15,954 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (fc49fdc6d71794d2a9cb985e6e2ac6c8)] -> xpath: //img[@title='User avatar']] is clickable 
+2021-12-02 17:46:18,170 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (fc49fdc6d71794d2a9cb985e6e2ac6c8)] -> xpath: //img[@title='User avatar']]' clicked successful. 
+2021-12-02 17:46:18,217 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (fc49fdc6d71794d2a9cb985e6e2ac6c8)] -> xpath: //a[@href='/logout']] 
+2021-12-02 17:46:18,317 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (fc49fdc6d71794d2a9cb985e6e2ac6c8)] -> xpath: //a[@href='/logout']] is clickable 
+2021-12-02 17:46:22,420 INFO  [Log] Element: 'Proxy element for: DefaultElementLocator 'By.xpath: //a[@href='/logout']'' clicked successful. 
+2021-12-02 17:46:22,424 INFO  [Log] ---clickCreateTest execution completed -------- 
+2021-12-02 17:46:22,429 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-02 17:46:22,459 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (1fc895b27a01bac8bd64600401387f51)] -> xpath: //a[@href='/blog']] 
+2021-12-02 17:46:22,557 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (1fc895b27a01bac8bd64600401387f51)] -> xpath: //a[@href='/blog']] is clickable 
+2021-12-02 17:46:24,784 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (1fc895b27a01bac8bd64600401387f51)] -> xpath: //a[@href='/blog']]' clicked successful. 
+2021-12-02 17:46:24,796 INFO  [Log] ---Search Category execution started -------- 
+2021-12-02 17:46:24,818 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (1fc895b27a01bac8bd64600401387f51)] -> xpath: //button[@class='search-form-searchButton-0-2-131']] 
+2021-12-02 17:46:24,891 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (1fc895b27a01bac8bd64600401387f51)] -> xpath: //button[@class='search-form-searchButton-0-2-131']] is clickable 
+2021-12-02 17:46:26,991 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (1fc895b27a01bac8bd64600401387f51)] -> xpath: //button[@class='search-form-searchButton-0-2-131']]' clicked successful. 
+2021-12-02 17:46:27,009 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (1fc895b27a01bac8bd64600401387f51)] -> xpath: //input[@placeholder='Search']] 
+2021-12-02 17:46:27,054 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (1fc895b27a01bac8bd64600401387f51)] -> xpath: //input[@placeholder='Search']] is clickable 
+2021-12-02 17:46:27,181 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (1fc895b27a01bac8bd64600401387f51)] -> xpath: //input[@placeholder='Search']]--News 
+2021-12-02 17:58:34,805 INFO  [Log] App urlhttps://picsart.com/blog/ 
+2021-12-02 17:58:34,805 INFO  [Log] browserNamechrome 
+2021-12-02 17:58:43,070 INFO  [Log] Base class constructor 
+2021-12-02 17:58:43,071 INFO  [Log] ----Login Page---  
+2021-12-02 17:58:43,071 INFO  [Log] Intitallizing the Page Factory  
+2021-12-02 17:58:43,156 INFO  [Log] Base class constructor 
+2021-12-02 17:58:43,157 INFO  [Log] ----Blog Page---  
+2021-12-02 17:58:43,157 INFO  [Log] Intitallizing the Page Factory  
+2021-12-02 17:58:43,184 INFO  [Log] App urlhttps://picsart.com 
+2021-12-02 17:58:43,184 INFO  [Log] browserNamechrome 
+2021-12-02 17:58:51,011 INFO  [Log] Base class constructor 
+2021-12-02 17:58:51,013 INFO  [Log] ----Login Page---  
+2021-12-02 17:58:51,013 INFO  [Log] Intitallizing the Page Factory  
+2021-12-02 17:58:56,471 INFO  [Log] ---clickLinkTest execution started -------- 
+2021-12-02 17:58:56,519 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (3153cfe4370ceecde30ce9f6649083ea)] -> xpath: //a[@href='/blog']] 
+2021-12-02 17:58:56,730 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (3153cfe4370ceecde30ce9f6649083ea)] -> xpath: //a[@href='/blog']] is clickable 
+2021-12-02 17:58:59,021 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (3153cfe4370ceecde30ce9f6649083ea)] -> xpath: //a[@href='/blog']]' clicked successful. 
+2021-12-02 17:58:59,034 INFO  [Log] ---Search Category execution started -------- 
+2021-12-02 17:58:59,055 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (3153cfe4370ceecde30ce9f6649083ea)] -> xpath: //button[@class='search-form-searchButton-0-2-131']] 
+2021-12-02 17:58:59,131 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (3153cfe4370ceecde30ce9f6649083ea)] -> xpath: //button[@class='search-form-searchButton-0-2-131']] is clickable 
+2021-12-02 17:59:01,224 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (3153cfe4370ceecde30ce9f6649083ea)] -> xpath: //button[@class='search-form-searchButton-0-2-131']]' clicked successful. 
+2021-12-02 17:59:01,242 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (3153cfe4370ceecde30ce9f6649083ea)] -> xpath: //input[@placeholder='Search']] 
+2021-12-02 17:59:01,286 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (3153cfe4370ceecde30ce9f6649083ea)] -> xpath: //input[@placeholder='Search']] is clickable 
+2021-12-02 17:59:01,397 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (3153cfe4370ceecde30ce9f6649083ea)] -> xpath: //input[@placeholder='Search']]--News 
+2021-12-02 17:59:03,415 INFO  [Log] ---clickCreateTest execution started -------- 
+2021-12-02 17:59:03,415 INFO  [Log] Clicking Login 
+2021-12-02 17:59:03,439 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (a15303b30054f0faba87e750f1cbd434)] -> xpath: //button[@data-mode='login']] 
+2021-12-02 17:59:03,540 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (a15303b30054f0faba87e750f1cbd434)] -> xpath: //button[@data-mode='login']] is clickable 
+2021-12-02 17:59:05,837 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (a15303b30054f0faba87e750f1cbd434)] -> xpath: //button[@data-mode='login']]' clicked successful. 
+2021-12-02 17:59:05,852 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (a15303b30054f0faba87e750f1cbd434)] -> name: username] 
+2021-12-02 17:59:05,913 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (a15303b30054f0faba87e750f1cbd434)] -> name: username] is clickable 
+2021-12-02 17:59:06,140 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (a15303b30054f0faba87e750f1cbd434)] -> name: username]--shruti18saggi@gmail.com 
+2021-12-02 17:59:08,172 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (a15303b30054f0faba87e750f1cbd434)] -> name: password] 
+2021-12-02 17:59:08,233 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (a15303b30054f0faba87e750f1cbd434)] -> name: password] is clickable 
+2021-12-02 17:59:08,388 INFO  [Log] Text enetered in element: '[[ChromeDriver: chrome on WINDOWS (a15303b30054f0faba87e750f1cbd434)] -> name: password]--test@123 
+2021-12-02 17:59:10,424 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (a15303b30054f0faba87e750f1cbd434)] -> xpath: //button[@type='submit']] 
+2021-12-02 17:59:10,499 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (a15303b30054f0faba87e750f1cbd434)] -> xpath: //button[@type='submit']] is clickable 
+2021-12-02 17:59:13,606 INFO  [Log] Element: 'Proxy element for: DefaultElementLocator 'By.xpath: //button[@type='submit']'' clicked successful. 
+2021-12-02 17:59:13,609 INFO  [Log] Base class constructor 
+2021-12-02 17:59:14,217 INFO  [Log] Logging Out 
+2021-12-02 17:59:14,343 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (a15303b30054f0faba87e750f1cbd434)] -> xpath: //img[@title='User avatar']] 
+2021-12-02 17:59:14,830 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (a15303b30054f0faba87e750f1cbd434)] -> xpath: //img[@title='User avatar']] is clickable 
+2021-12-02 17:59:17,218 INFO  [Log] Element: '[[ChromeDriver: chrome on WINDOWS (a15303b30054f0faba87e750f1cbd434)] -> xpath: //img[@title='User avatar']]' clicked successful. 
+2021-12-02 17:59:17,251 INFO  [Log] Searching for element[[ChromeDriver: chrome on WINDOWS (a15303b30054f0faba87e750f1cbd434)] -> xpath: //a[@href='/logout']] 
+2021-12-02 17:59:17,336 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (a15303b30054f0faba87e750f1cbd434)] -> xpath: //a[@href='/logout']] is clickable 
+2021-12-02 17:59:22,047 INFO  [Log] Element: 'Proxy element for: DefaultElementLocator 'By.xpath: //a[@href='/logout']'' clicked successful. 
+2021-12-02 17:59:22,054 INFO  [Log] ---clickCreateTest execution completed -------- 

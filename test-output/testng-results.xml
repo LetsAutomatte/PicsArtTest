@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="2" ignored="0" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="PicsartSuite" duration-ms="41873" started-at="2021-12-02T12:15:49Z" finished-at="2021-12-02T12:16:31Z">
+    <groups>
+    </groups>
+    <test name="PicsartTest" duration-ms="41873" started-at="2021-12-02T12:15:49Z" finished-at="2021-12-02T12:16:31Z">
+      <class name="com.org.picsartapp.Test.LinkAndSearchTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.org.picsartapp.Test.LinkAndSearchTest@7791a895]" name="setup" is-config="true" duration-ms="7637" started-at="2021-12-02T12:15:49Z" finished-at="2021-12-02T12:15:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.org.picsartapp.Test.LoginLogoutTest@7d907bac]" name="setup" is-config="true" duration-ms="6154" started-at="2021-12-02T12:15:56Z" finished-at="2021-12-02T12:16:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="FAIL" signature="clickLinkTest()[pri:0, instance:com.org.picsartapp.Test.LinkAndSearchTest@7791a895]" name="clickLinkTest" duration-ms="2365" started-at="2021-12-02T12:16:22Z" finished-at="2021-12-02T12:16:24Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [https://picsart.com/blog] but found [https://picsart.com/explore]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [https://picsart.com/blog] but found [https://picsart.com/explore]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:453)
+at org.testng.Assert.assertEquals(Assert.java:463)
+at com.org.picsartapp.Test.LinkAndSearchTest.clickLinkTest(LinkAndSearchTest.java:44)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLinkTest -->
+        <test-method status="FAIL" signature="serachCategory()[pri:0, instance:com.org.picsartapp.Test.LinkAndSearchTest@7791a895]" name="serachCategory" duration-ms="4399" started-at="2021-12-02T12:16:24Z" finished-at="2021-12-02T12:16:29Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [https://picsart.com/blog/category/news] but found [https://picsart.com/explore]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [https://picsart.com/blog/category/news] but found [https://picsart.com/explore]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:453)
+at org.testng.Assert.assertEquals(Assert.java:463)
+at com.org.picsartapp.Test.LinkAndSearchTest.serachCategory(LinkAndSearchTest.java:75)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serachCategory -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.org.picsartapp.Test.LinkAndSearchTest@7791a895]" name="tearDown" is-config="true" duration-ms="2033" started-at="2021-12-02T12:16:29Z" finished-at="2021-12-02T12:16:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.org.picsartapp.Test.LoginLogoutTest@7d907bac]" name="tearDown" is-config="true" duration-ms="1" started-at="2021-12-02T12:16:31Z" finished-at="2021-12-02T12:16:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.org.picsartapp.Test.LinkAndSearchTest -->
+      <class name="com.org.picsartapp.Test.LoginLogoutTest">
+        <test-method status="PASS" signature="clickCreateTest()[pri:0, instance:com.org.picsartapp.Test.LoginLogoutTest@7d907bac]" name="clickCreateTest" duration-ms="19193" started-at="2021-12-02T12:16:03Z" finished-at="2021-12-02T12:16:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickCreateTest -->
+      </class> <!-- com.org.picsartapp.Test.LoginLogoutTest -->
+    </test> <!-- PicsartTest -->
+  </suite> <!-- PicsartSuite -->
+</testng-results>
