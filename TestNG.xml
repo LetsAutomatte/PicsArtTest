@@ -12,6 +12,8 @@
 </class>
 <class name="com.org.picsartapp.Test.LinkAndSearchTest">
 </class>
+<class name="com.org.picsartapp.Test.JsonSchemaValidatorTest">
+</class>
 
 
 </classes>
